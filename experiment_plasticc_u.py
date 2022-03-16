@@ -8,9 +8,6 @@ import multiprocessing
 
 n_jobs = multiprocessing.cpu_count()
 
-import sys
-sys.path.insert(1, os.path.join(sys.path[0], '..'))
-
 from sast.utils import *
 from sast.usast import *
 from sast.ugnb import UGaussianNB
