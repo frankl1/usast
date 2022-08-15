@@ -1,0 +1,34 @@
+Number of MTS in train set: 6278
+Number of MTS in test set: 1570
+Number of classes: 14
+MTS length: 261
+Window size: 52
+Number of features: 5
+
+Cross-validation - folds: 1, current: 0
+Training set size: 1318380
+Validation set size: 0
+Testing set size: 329700
+
+Accuracy train: 0.9799299139853457
+Accuracy validation: -
+Accuracy test: 0.7229299363057324
+
+Precision train: 0.9804197290158316
+Precision validation: -
+Precision test: 0.7079841716904854
+
+Recall train: 0.9799299139853457
+Recall validation: -
+Recall test: 0.7229299363057324
+
+F1 train: 0.979857465903054
+F1 validation: -
+F1 test: 0.7072135932482341
+Traceback (most recent call last):
+  File "./main.py", line 67, in <module>
+    get_mts_region(clf, encoder, X_test, y_test, results_test_mts, mts_id, configuration['window'])
+  File "/home/local.isima.fr/mfmbouopda/shapeletnet/XEM/utils/results_export.py", line 182, in get_mts_region
+    pred_num = int(np.array(res_mts.loc[res_mts.id==mts_id, "pred_num"])[0])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+srun: error: node35: task 0: Exited with exit code 1

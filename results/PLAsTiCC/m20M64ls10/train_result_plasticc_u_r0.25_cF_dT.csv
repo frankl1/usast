@@ -1,0 +1,2 @@
+Model,Precision,Recall,F1score,LogLoss,Time
+XGBoost,1.0,1.0,1.0,0.0027835184491502656,124122.27406787872

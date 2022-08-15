@@ -1,0 +1,9448 @@
+Number of MTS in train set: 6278
+Number of MTS in test set: 1570
+Number of classes: 14
+MTS length: 261
+Window size: 52
+Number of features: 5
+
+Cross-validation - folds: 1, current: 0
+Training set size: 1318380
+Validation set size: 0
+Testing set size: 329700
+
+Accuracy train: 0.9800892003822873
+Accuracy validation: -
+Accuracy test: 0.6980891719745222
+
+Precision train: 0.9805090656994695
+Precision validation: -
+Precision test: 0.6829741287295209
+
+Recall train: 0.9800892003822873
+Recall validation: -
+Recall test: 0.6980891719745222
+
+F1 train: 0.9800325162585125
+F1 validation: -
+F1 test: 0.6817570186801261
+Finished time: 46006.115466833115
+
+Example
+MTS ID: 1
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [207, 258]
+
+Example
+MTS ID: 2
+MTS label: class_42
+XEM prediction: class_16
+MTS region used by XEM to predict: [64, 115]
+
+Example
+MTS ID: 3
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [147, 198]
+
+Example
+MTS ID: 4
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [140, 191]
+
+Example
+MTS ID: 5
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [83, 134]
+
+Example
+MTS ID: 6
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [3, 54]
+
+Example
+MTS ID: 7
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [32, 83]
+
+Example
+MTS ID: 8
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [152, 203]
+
+Example
+MTS ID: 9
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [78, 129]
+
+Example
+MTS ID: 10
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [77, 128]
+
+Example
+MTS ID: 11
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [96, 147]
+
+Example
+MTS ID: 12
+MTS label: class_42
+XEM prediction: class_15
+MTS region used by XEM to predict: [127, 178]
+
+Example
+MTS ID: 13
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [87, 138]
+
+Example
+MTS ID: 14
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [187, 238]
+
+Example
+MTS ID: 15
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [9, 60]
+
+Example
+MTS ID: 16
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [84, 135]
+
+Example
+MTS ID: 17
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [2, 53]
+
+Example
+MTS ID: 18
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [144, 195]
+
+Example
+MTS ID: 19
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [191, 242]
+
+Example
+MTS ID: 20
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [58, 109]
+
+Example
+MTS ID: 21
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [51, 102]
+
+Example
+MTS ID: 22
+MTS label: class_67
+XEM prediction: class_64
+MTS region used by XEM to predict: [206, 257]
+
+Example
+MTS ID: 23
+MTS label: class_6
+XEM prediction: class_65
+MTS region used by XEM to predict: [55, 106]
+
+Example
+MTS ID: 24
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [181, 232]
+
+Example
+MTS ID: 25
+MTS label: class_90
+XEM prediction: class_52
+MTS region used by XEM to predict: [122, 173]
+
+Example
+MTS ID: 26
+MTS label: class_65
+XEM prediction: class_16
+MTS region used by XEM to predict: [114, 165]
+
+Example
+MTS ID: 27
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [41, 92]
+
+Example
+MTS ID: 28
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [170, 221]
+
+Example
+MTS ID: 29
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [159, 210]
+
+Example
+MTS ID: 30
+MTS label: class_95
+XEM prediction: class_88
+MTS region used by XEM to predict: [197, 248]
+
+Example
+MTS ID: 31
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [185, 236]
+
+Example
+MTS ID: 32
+MTS label: class_90
+XEM prediction: class_62
+MTS region used by XEM to predict: [42, 93]
+
+Example
+MTS ID: 33
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [94, 145]
+
+Example
+MTS ID: 34
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [87, 138]
+
+Example
+MTS ID: 35
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [90, 141]
+
+Example
+MTS ID: 36
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [127, 178]
+
+Example
+MTS ID: 37
+MTS label: class_52
+XEM prediction: class_65
+MTS region used by XEM to predict: [207, 258]
+
+Example
+MTS ID: 38
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [72, 123]
+
+Example
+MTS ID: 39
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [82, 133]
+
+Example
+MTS ID: 40
+MTS label: class_6
+XEM prediction: class_53
+MTS region used by XEM to predict: [6, 57]
+
+Example
+MTS ID: 41
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [23, 74]
+
+Example
+MTS ID: 42
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [182, 233]
+
+Example
+MTS ID: 43
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [71, 122]
+
+Example
+MTS ID: 44
+MTS label: class_90
+XEM prediction: class_6
+MTS region used by XEM to predict: [24, 75]
+
+Example
+MTS ID: 45
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [41, 92]
+
+Example
+MTS ID: 46
+MTS label: class_90
+XEM prediction: class_95
+MTS region used by XEM to predict: [21, 72]
+
+Example
+MTS ID: 47
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [137, 188]
+
+Example
+MTS ID: 48
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [3, 54]
+
+Example
+MTS ID: 49
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [181, 232]
+
+Example
+MTS ID: 50
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [210, 261]
+
+Example
+MTS ID: 51
+MTS label: class_95
+XEM prediction: class_95
+MTS region used by XEM to predict: [190, 241]
+
+Example
+MTS ID: 52
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [174, 225]
+
+Example
+MTS ID: 53
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [100, 151]
+
+Example
+MTS ID: 54
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [59, 110]
+
+Example
+MTS ID: 55
+MTS label: class_52
+XEM prediction: class_42
+MTS region used by XEM to predict: [88, 139]
+
+Example
+MTS ID: 56
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [163, 214]
+
+Example
+MTS ID: 57
+MTS label: class_42
+XEM prediction: class_62
+MTS region used by XEM to predict: [170, 221]
+
+Example
+MTS ID: 58
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [62, 113]
+
+Example
+MTS ID: 59
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [164, 215]
+
+Example
+MTS ID: 60
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [147, 198]
+
+Example
+MTS ID: 61
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [124, 175]
+
+Example
+MTS ID: 62
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [136, 187]
+
+Example
+MTS ID: 63
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [99, 150]
+
+Example
+MTS ID: 64
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [81, 132]
+
+Example
+MTS ID: 65
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [84, 135]
+
+Example
+MTS ID: 66
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [68, 119]
+
+Example
+MTS ID: 67
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [21, 72]
+
+Example
+MTS ID: 68
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [203, 254]
+
+Example
+MTS ID: 69
+MTS label: class_16
+XEM prediction: class_6
+MTS region used by XEM to predict: [69, 120]
+
+Example
+MTS ID: 70
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [202, 253]
+
+Example
+MTS ID: 71
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [72, 123]
+
+Example
+MTS ID: 72
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [171, 222]
+
+Example
+MTS ID: 73
+MTS label: class_95
+XEM prediction: class_95
+MTS region used by XEM to predict: [81, 132]
+
+Example
+MTS ID: 74
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [121, 172]
+
+Example
+MTS ID: 75
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [83, 134]
+
+Example
+MTS ID: 76
+MTS label: class_65
+XEM prediction: class_90
+MTS region used by XEM to predict: [144, 195]
+
+Example
+MTS ID: 77
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [7, 58]
+
+Example
+MTS ID: 78
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [93, 144]
+
+Example
+MTS ID: 79
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [3, 54]
+
+Example
+MTS ID: 80
+MTS label: class_16
+XEM prediction: class_88
+MTS region used by XEM to predict: [60, 111]
+
+Example
+MTS ID: 81
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [23, 74]
+
+Example
+MTS ID: 82
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [29, 80]
+
+Example
+MTS ID: 83
+MTS label: class_90
+XEM prediction: class_62
+MTS region used by XEM to predict: [12, 63]
+
+Example
+MTS ID: 84
+MTS label: class_90
+XEM prediction: class_16
+MTS region used by XEM to predict: [23, 74]
+
+Example
+MTS ID: 85
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [128, 179]
+
+Example
+MTS ID: 86
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [15, 66]
+
+Example
+MTS ID: 87
+MTS label: class_64
+XEM prediction: class_90
+MTS region used by XEM to predict: [144, 195]
+
+Example
+MTS ID: 88
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [194, 245]
+
+Example
+MTS ID: 89
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [36, 87]
+
+Example
+MTS ID: 90
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [137, 188]
+
+Example
+MTS ID: 91
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [136, 187]
+
+Example
+MTS ID: 92
+MTS label: class_42
+XEM prediction: class_95
+MTS region used by XEM to predict: [164, 215]
+
+Example
+MTS ID: 93
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [18, 69]
+
+Example
+MTS ID: 94
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [40, 91]
+
+Example
+MTS ID: 95
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [88, 139]
+
+Example
+MTS ID: 96
+MTS label: class_90
+XEM prediction: class_6
+MTS region used by XEM to predict: [101, 152]
+
+Example
+MTS ID: 97
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [117, 168]
+
+Example
+MTS ID: 98
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [205, 256]
+
+Example
+MTS ID: 99
+MTS label: class_95
+XEM prediction: class_95
+MTS region used by XEM to predict: [11, 62]
+
+Example
+MTS ID: 100
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [38, 89]
+
+Example
+MTS ID: 101
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [72, 123]
+
+Example
+MTS ID: 102
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [58, 109]
+
+Example
+MTS ID: 103
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [32, 83]
+
+Example
+MTS ID: 104
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [51, 102]
+
+Example
+MTS ID: 105
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [115, 166]
+
+Example
+MTS ID: 106
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [183, 234]
+
+Example
+MTS ID: 107
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [209, 260]
+
+Example
+MTS ID: 108
+MTS label: class_42
+XEM prediction: class_65
+MTS region used by XEM to predict: [190, 241]
+
+Example
+MTS ID: 109
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [70, 121]
+
+Example
+MTS ID: 110
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [68, 119]
+
+Example
+MTS ID: 111
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [191, 242]
+
+Example
+MTS ID: 112
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [81, 132]
+
+Example
+MTS ID: 113
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [13, 64]
+
+Example
+MTS ID: 114
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [26, 77]
+
+Example
+MTS ID: 115
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [55, 106]
+
+Example
+MTS ID: 116
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [152, 203]
+
+Example
+MTS ID: 117
+MTS label: class_6
+XEM prediction: class_88
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 118
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [15, 66]
+
+Example
+MTS ID: 119
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [81, 132]
+
+Example
+MTS ID: 120
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [152, 203]
+
+Example
+MTS ID: 121
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [89, 140]
+
+Example
+MTS ID: 122
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [38, 89]
+
+Example
+MTS ID: 123
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [58, 109]
+
+Example
+MTS ID: 124
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [123, 174]
+
+Example
+MTS ID: 125
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 126
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [99, 150]
+
+Example
+MTS ID: 127
+MTS label: class_42
+XEM prediction: class_95
+MTS region used by XEM to predict: [8, 59]
+
+Example
+MTS ID: 128
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [174, 225]
+
+Example
+MTS ID: 129
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [164, 215]
+
+Example
+MTS ID: 130
+MTS label: class_65
+XEM prediction: class_42
+MTS region used by XEM to predict: [61, 112]
+
+Example
+MTS ID: 131
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [32, 83]
+
+Example
+MTS ID: 132
+MTS label: class_65
+XEM prediction: class_88
+MTS region used by XEM to predict: [55, 106]
+
+Example
+MTS ID: 133
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [70, 121]
+
+Example
+MTS ID: 134
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [30, 81]
+
+Example
+MTS ID: 135
+MTS label: class_67
+XEM prediction: class_65
+MTS region used by XEM to predict: [197, 248]
+
+Example
+MTS ID: 136
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [193, 244]
+
+Example
+MTS ID: 137
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [4, 55]
+
+Example
+MTS ID: 138
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [62, 113]
+
+Example
+MTS ID: 139
+MTS label: class_67
+XEM prediction: class_42
+MTS region used by XEM to predict: [13, 64]
+
+Example
+MTS ID: 140
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [4, 55]
+
+Example
+MTS ID: 141
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [141, 192]
+
+Example
+MTS ID: 142
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [172, 223]
+
+Example
+MTS ID: 143
+MTS label: class_67
+XEM prediction: class_15
+MTS region used by XEM to predict: [137, 188]
+
+Example
+MTS ID: 144
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [200, 251]
+
+Example
+MTS ID: 145
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [162, 213]
+
+Example
+MTS ID: 146
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [13, 64]
+
+Example
+MTS ID: 147
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [148, 199]
+
+Example
+MTS ID: 148
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [148, 199]
+
+Example
+MTS ID: 149
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [3, 54]
+
+Example
+MTS ID: 150
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [110, 161]
+
+Example
+MTS ID: 151
+MTS label: class_95
+XEM prediction: class_95
+MTS region used by XEM to predict: [163, 214]
+
+Example
+MTS ID: 152
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [148, 199]
+
+Example
+MTS ID: 153
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [179, 230]
+
+Example
+MTS ID: 154
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [120, 171]
+
+Example
+MTS ID: 155
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [15, 66]
+
+Example
+MTS ID: 156
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [104, 155]
+
+Example
+MTS ID: 157
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [131, 182]
+
+Example
+MTS ID: 158
+MTS label: class_67
+XEM prediction: class_65
+MTS region used by XEM to predict: [210, 261]
+
+Example
+MTS ID: 159
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [179, 230]
+
+Example
+MTS ID: 160
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [30, 81]
+
+Example
+MTS ID: 161
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [13, 64]
+
+Example
+MTS ID: 162
+MTS label: class_16
+XEM prediction: class_92
+MTS region used by XEM to predict: [93, 144]
+
+Example
+MTS ID: 163
+MTS label: class_42
+XEM prediction: class_15
+MTS region used by XEM to predict: [150, 201]
+
+Example
+MTS ID: 164
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [151, 202]
+
+Example
+MTS ID: 165
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [69, 120]
+
+Example
+MTS ID: 166
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [127, 178]
+
+Example
+MTS ID: 167
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [52, 103]
+
+Example
+MTS ID: 168
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [81, 132]
+
+Example
+MTS ID: 169
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [172, 223]
+
+Example
+MTS ID: 170
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [61, 112]
+
+Example
+MTS ID: 171
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [209, 260]
+
+Example
+MTS ID: 172
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [99, 150]
+
+Example
+MTS ID: 173
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [170, 221]
+
+Example
+MTS ID: 174
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [110, 161]
+
+Example
+MTS ID: 175
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [112, 163]
+
+Example
+MTS ID: 176
+MTS label: class_62
+XEM prediction: class_65
+MTS region used by XEM to predict: [124, 175]
+
+Example
+MTS ID: 177
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [121, 172]
+
+Example
+MTS ID: 178
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [38, 89]
+
+Example
+MTS ID: 179
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 180
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [159, 210]
+
+Example
+MTS ID: 181
+MTS label: class_95
+XEM prediction: class_42
+MTS region used by XEM to predict: [197, 248]
+
+Example
+MTS ID: 182
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [48, 99]
+
+Example
+MTS ID: 183
+MTS label: class_67
+XEM prediction: class_62
+MTS region used by XEM to predict: [50, 101]
+
+Example
+MTS ID: 184
+MTS label: class_65
+XEM prediction: class_16
+MTS region used by XEM to predict: [56, 107]
+
+Example
+MTS ID: 185
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [26, 77]
+
+Example
+MTS ID: 186
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [4, 55]
+
+Example
+MTS ID: 187
+MTS label: class_65
+XEM prediction: class_16
+MTS region used by XEM to predict: [137, 188]
+
+Example
+MTS ID: 188
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [203, 254]
+
+Example
+MTS ID: 189
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [49, 100]
+
+Example
+MTS ID: 190
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [147, 198]
+
+Example
+MTS ID: 191
+MTS label: class_64
+XEM prediction: class_65
+MTS region used by XEM to predict: [93, 144]
+
+Example
+MTS ID: 192
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [89, 140]
+
+Example
+MTS ID: 193
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [122, 173]
+
+Example
+MTS ID: 194
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [31, 82]
+
+Example
+MTS ID: 195
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [153, 204]
+
+Example
+MTS ID: 196
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [209, 260]
+
+Example
+MTS ID: 197
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [170, 221]
+
+Example
+MTS ID: 198
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [8, 59]
+
+Example
+MTS ID: 199
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [202, 253]
+
+Example
+MTS ID: 200
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [69, 120]
+
+Example
+MTS ID: 201
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [144, 195]
+
+Example
+MTS ID: 202
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [101, 152]
+
+Example
+MTS ID: 203
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [86, 137]
+
+Example
+MTS ID: 204
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [198, 249]
+
+Example
+MTS ID: 205
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [199, 250]
+
+Example
+MTS ID: 206
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [88, 139]
+
+Example
+MTS ID: 207
+MTS label: class_42
+XEM prediction: class_95
+MTS region used by XEM to predict: [76, 127]
+
+Example
+MTS ID: 208
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [92, 143]
+
+Example
+MTS ID: 209
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [191, 242]
+
+Example
+MTS ID: 210
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [120, 171]
+
+Example
+MTS ID: 211
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [40, 91]
+
+Example
+MTS ID: 212
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [205, 256]
+
+Example
+MTS ID: 213
+MTS label: class_52
+XEM prediction: class_67
+MTS region used by XEM to predict: [79, 130]
+
+Example
+MTS ID: 214
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [14, 65]
+
+Example
+MTS ID: 215
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [127, 178]
+
+Example
+MTS ID: 216
+MTS label: class_67
+XEM prediction: class_90
+MTS region used by XEM to predict: [129, 180]
+
+Example
+MTS ID: 217
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [127, 178]
+
+Example
+MTS ID: 218
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [140, 191]
+
+Example
+MTS ID: 219
+MTS label: class_67
+XEM prediction: class_65
+MTS region used by XEM to predict: [210, 261]
+
+Example
+MTS ID: 220
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [142, 193]
+
+Example
+MTS ID: 221
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 222
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [47, 98]
+
+Example
+MTS ID: 223
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [23, 74]
+
+Example
+MTS ID: 224
+MTS label: class_42
+XEM prediction: class_65
+MTS region used by XEM to predict: [210, 261]
+
+Example
+MTS ID: 225
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [46, 97]
+
+Example
+MTS ID: 226
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [193, 244]
+
+Example
+MTS ID: 227
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [144, 195]
+
+Example
+MTS ID: 228
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [73, 124]
+
+Example
+MTS ID: 229
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [200, 251]
+
+Example
+MTS ID: 230
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [17, 68]
+
+Example
+MTS ID: 231
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [161, 212]
+
+Example
+MTS ID: 232
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [135, 186]
+
+Example
+MTS ID: 233
+MTS label: class_95
+XEM prediction: class_95
+MTS region used by XEM to predict: [77, 128]
+
+Example
+MTS ID: 234
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [118, 169]
+
+Example
+MTS ID: 235
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [206, 257]
+
+Example
+MTS ID: 236
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [136, 187]
+
+Example
+MTS ID: 237
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [103, 154]
+
+Example
+MTS ID: 238
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [164, 215]
+
+Example
+MTS ID: 239
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [144, 195]
+
+Example
+MTS ID: 240
+MTS label: class_67
+XEM prediction: class_90
+MTS region used by XEM to predict: [184, 235]
+
+Example
+MTS ID: 241
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [182, 233]
+
+Example
+MTS ID: 242
+MTS label: class_42
+XEM prediction: class_15
+MTS region used by XEM to predict: [101, 152]
+
+Example
+MTS ID: 243
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [123, 174]
+
+Example
+MTS ID: 244
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [72, 123]
+
+Example
+MTS ID: 245
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [199, 250]
+
+Example
+MTS ID: 246
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [87, 138]
+
+Example
+MTS ID: 247
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [150, 201]
+
+Example
+MTS ID: 248
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [45, 96]
+
+Example
+MTS ID: 249
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [186, 237]
+
+Example
+MTS ID: 250
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [59, 110]
+
+Example
+MTS ID: 251
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [90, 141]
+
+Example
+MTS ID: 252
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [8, 59]
+
+Example
+MTS ID: 253
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [46, 97]
+
+Example
+MTS ID: 254
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [122, 173]
+
+Example
+MTS ID: 255
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [85, 136]
+
+Example
+MTS ID: 256
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [168, 219]
+
+Example
+MTS ID: 257
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [89, 140]
+
+Example
+MTS ID: 258
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [127, 178]
+
+Example
+MTS ID: 259
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [7, 58]
+
+Example
+MTS ID: 260
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [138, 189]
+
+Example
+MTS ID: 261
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [14, 65]
+
+Example
+MTS ID: 262
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [42, 93]
+
+Example
+MTS ID: 263
+MTS label: class_42
+XEM prediction: class_88
+MTS region used by XEM to predict: [120, 171]
+
+Example
+MTS ID: 264
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [40, 91]
+
+Example
+MTS ID: 265
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [167, 218]
+
+Example
+MTS ID: 266
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [11, 62]
+
+Example
+MTS ID: 267
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [29, 80]
+
+Example
+MTS ID: 268
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [177, 228]
+
+Example
+MTS ID: 269
+MTS label: class_53
+XEM prediction: class_53
+MTS region used by XEM to predict: [143, 194]
+
+Example
+MTS ID: 270
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [110, 161]
+
+Example
+MTS ID: 271
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [181, 232]
+
+Example
+MTS ID: 272
+MTS label: class_16
+XEM prediction: class_92
+MTS region used by XEM to predict: [2, 53]
+
+Example
+MTS ID: 273
+MTS label: class_53
+XEM prediction: class_53
+MTS region used by XEM to predict: [46, 97]
+
+Example
+MTS ID: 274
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [73, 124]
+
+Example
+MTS ID: 275
+MTS label: class_92
+XEM prediction: class_16
+MTS region used by XEM to predict: [11, 62]
+
+Example
+MTS ID: 276
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [177, 228]
+
+Example
+MTS ID: 277
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [4, 55]
+
+Example
+MTS ID: 278
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [5, 56]
+
+Example
+MTS ID: 279
+MTS label: class_67
+XEM prediction: class_62
+MTS region used by XEM to predict: [198, 249]
+
+Example
+MTS ID: 280
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [88, 139]
+
+Example
+MTS ID: 281
+MTS label: class_15
+XEM prediction: class_90
+MTS region used by XEM to predict: [202, 253]
+
+Example
+MTS ID: 282
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [30, 81]
+
+Example
+MTS ID: 283
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [182, 233]
+
+Example
+MTS ID: 284
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [40, 91]
+
+Example
+MTS ID: 285
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [118, 169]
+
+Example
+MTS ID: 286
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [49, 100]
+
+Example
+MTS ID: 287
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [199, 250]
+
+Example
+MTS ID: 288
+MTS label: class_65
+XEM prediction: class_16
+MTS region used by XEM to predict: [171, 222]
+
+Example
+MTS ID: 289
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [202, 253]
+
+Example
+MTS ID: 290
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [63, 114]
+
+Example
+MTS ID: 291
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [90, 141]
+
+Example
+MTS ID: 292
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [121, 172]
+
+Example
+MTS ID: 293
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [59, 110]
+
+Example
+MTS ID: 294
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [13, 64]
+
+Example
+MTS ID: 295
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [28, 79]
+
+Example
+MTS ID: 296
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [46, 97]
+
+Example
+MTS ID: 297
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 298
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [207, 258]
+
+Example
+MTS ID: 299
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [58, 109]
+
+Example
+MTS ID: 300
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 301
+MTS label: class_90
+XEM prediction: class_6
+MTS region used by XEM to predict: [9, 60]
+
+Example
+MTS ID: 302
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [146, 197]
+
+Example
+MTS ID: 303
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [152, 203]
+
+Example
+MTS ID: 304
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [47, 98]
+
+Example
+MTS ID: 305
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [159, 210]
+
+Example
+MTS ID: 306
+MTS label: class_6
+XEM prediction: class_16
+MTS region used by XEM to predict: [164, 215]
+
+Example
+MTS ID: 307
+MTS label: class_67
+XEM prediction: class_90
+MTS region used by XEM to predict: [20, 71]
+
+Example
+MTS ID: 308
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [10, 61]
+
+Example
+MTS ID: 309
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [49, 100]
+
+Example
+MTS ID: 310
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [53, 104]
+
+Example
+MTS ID: 311
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [202, 253]
+
+Example
+MTS ID: 312
+MTS label: class_6
+XEM prediction: class_42
+MTS region used by XEM to predict: [157, 208]
+
+Example
+MTS ID: 313
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [85, 136]
+
+Example
+MTS ID: 314
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [64, 115]
+
+Example
+MTS ID: 315
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [77, 128]
+
+Example
+MTS ID: 316
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [123, 174]
+
+Example
+MTS ID: 317
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [88, 139]
+
+Example
+MTS ID: 318
+MTS label: class_16
+XEM prediction: class_92
+MTS region used by XEM to predict: [144, 195]
+
+Example
+MTS ID: 319
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [24, 75]
+
+Example
+MTS ID: 320
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [11, 62]
+
+Example
+MTS ID: 321
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [40, 91]
+
+Example
+MTS ID: 322
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [135, 186]
+
+Example
+MTS ID: 323
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [8, 59]
+
+Example
+MTS ID: 324
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [143, 194]
+
+Example
+MTS ID: 325
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [29, 80]
+
+Example
+MTS ID: 326
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [45, 96]
+
+Example
+MTS ID: 327
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [132, 183]
+
+Example
+MTS ID: 328
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [30, 81]
+
+Example
+MTS ID: 329
+MTS label: class_67
+XEM prediction: class_67
+MTS region used by XEM to predict: [86, 137]
+
+Example
+MTS ID: 330
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [170, 221]
+
+Example
+MTS ID: 331
+MTS label: class_64
+XEM prediction: class_67
+MTS region used by XEM to predict: [27, 78]
+
+Example
+MTS ID: 332
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [50, 101]
+
+Example
+MTS ID: 333
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [172, 223]
+
+Example
+MTS ID: 334
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [121, 172]
+
+Example
+MTS ID: 335
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [114, 165]
+
+Example
+MTS ID: 336
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [130, 181]
+
+Example
+MTS ID: 337
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [154, 205]
+
+Example
+MTS ID: 338
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 339
+MTS label: class_42
+XEM prediction: class_16
+MTS region used by XEM to predict: [34, 85]
+
+Example
+MTS ID: 340
+MTS label: class_88
+XEM prediction: class_64
+MTS region used by XEM to predict: [210, 261]
+
+Example
+MTS ID: 341
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [192, 243]
+
+Example
+MTS ID: 342
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [184, 235]
+
+Example
+MTS ID: 343
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [66, 117]
+
+Example
+MTS ID: 344
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [115, 166]
+
+Example
+MTS ID: 345
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [194, 245]
+
+Example
+MTS ID: 346
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [182, 233]
+
+Example
+MTS ID: 347
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [187, 238]
+
+Example
+MTS ID: 348
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [140, 191]
+
+Example
+MTS ID: 349
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [19, 70]
+
+Example
+MTS ID: 350
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [26, 77]
+
+Example
+MTS ID: 351
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [65, 116]
+
+Example
+MTS ID: 352
+MTS label: class_65
+XEM prediction: class_42
+MTS region used by XEM to predict: [161, 212]
+
+Example
+MTS ID: 353
+MTS label: class_16
+XEM prediction: class_92
+MTS region used by XEM to predict: [42, 93]
+
+Example
+MTS ID: 354
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [87, 138]
+
+Example
+MTS ID: 355
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [5, 56]
+
+Example
+MTS ID: 356
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [59, 110]
+
+Example
+MTS ID: 357
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [64, 115]
+
+Example
+MTS ID: 358
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [89, 140]
+
+Example
+MTS ID: 359
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [106, 157]
+
+Example
+MTS ID: 360
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [104, 155]
+
+Example
+MTS ID: 361
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [58, 109]
+
+Example
+MTS ID: 362
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [11, 62]
+
+Example
+MTS ID: 363
+MTS label: class_90
+XEM prediction: class_62
+MTS region used by XEM to predict: [92, 143]
+
+Example
+MTS ID: 364
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [148, 199]
+
+Example
+MTS ID: 365
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [29, 80]
+
+Example
+MTS ID: 366
+MTS label: class_92
+XEM prediction: class_6
+MTS region used by XEM to predict: [44, 95]
+
+Example
+MTS ID: 367
+MTS label: class_6
+XEM prediction: class_16
+MTS region used by XEM to predict: [88, 139]
+
+Example
+MTS ID: 368
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [143, 194]
+
+Example
+MTS ID: 369
+MTS label: class_42
+XEM prediction: class_16
+MTS region used by XEM to predict: [99, 150]
+
+Example
+MTS ID: 370
+MTS label: class_15
+XEM prediction: class_42
+MTS region used by XEM to predict: [134, 185]
+
+Example
+MTS ID: 371
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [15, 66]
+
+Example
+MTS ID: 372
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [31, 82]
+
+Example
+MTS ID: 373
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [123, 174]
+
+Example
+MTS ID: 374
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [148, 199]
+
+Example
+MTS ID: 375
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [96, 147]
+
+Example
+MTS ID: 376
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [57, 108]
+
+Example
+MTS ID: 377
+MTS label: class_90
+XEM prediction: class_88
+MTS region used by XEM to predict: [92, 143]
+
+Example
+MTS ID: 378
+MTS label: class_92
+XEM prediction: class_16
+MTS region used by XEM to predict: [11, 62]
+
+Example
+MTS ID: 379
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [12, 63]
+
+Example
+MTS ID: 380
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [140, 191]
+
+Example
+MTS ID: 381
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [5, 56]
+
+Example
+MTS ID: 382
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [201, 252]
+
+Example
+MTS ID: 383
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [89, 140]
+
+Example
+MTS ID: 384
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [196, 247]
+
+Example
+MTS ID: 385
+MTS label: class_16
+XEM prediction: class_6
+MTS region used by XEM to predict: [101, 152]
+
+Example
+MTS ID: 386
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [34, 85]
+
+Example
+MTS ID: 387
+MTS label: class_42
+XEM prediction: class_52
+MTS region used by XEM to predict: [126, 177]
+
+Example
+MTS ID: 388
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [65, 116]
+
+Example
+MTS ID: 389
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [74, 125]
+
+Example
+MTS ID: 390
+MTS label: class_6
+XEM prediction: class_42
+MTS region used by XEM to predict: [16, 67]
+
+Example
+MTS ID: 391
+MTS label: class_42
+XEM prediction: class_65
+MTS region used by XEM to predict: [77, 128]
+
+Example
+MTS ID: 392
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [70, 121]
+
+Example
+MTS ID: 393
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [95, 146]
+
+Example
+MTS ID: 394
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [158, 209]
+
+Example
+MTS ID: 395
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [104, 155]
+
+Example
+MTS ID: 396
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [187, 238]
+
+Example
+MTS ID: 397
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [51, 102]
+
+Example
+MTS ID: 398
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [119, 170]
+
+Example
+MTS ID: 399
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [49, 100]
+
+Example
+MTS ID: 400
+MTS label: class_42
+XEM prediction: class_62
+MTS region used by XEM to predict: [173, 224]
+
+Example
+MTS ID: 401
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [178, 229]
+
+Example
+MTS ID: 402
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [5, 56]
+
+Example
+MTS ID: 403
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [76, 127]
+
+Example
+MTS ID: 404
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [22, 73]
+
+Example
+MTS ID: 405
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [17, 68]
+
+Example
+MTS ID: 406
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [56, 107]
+
+Example
+MTS ID: 407
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 408
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [86, 137]
+
+Example
+MTS ID: 409
+MTS label: class_42
+XEM prediction: class_95
+MTS region used by XEM to predict: [104, 155]
+
+Example
+MTS ID: 410
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [132, 183]
+
+Example
+MTS ID: 411
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [29, 80]
+
+Example
+MTS ID: 412
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [83, 134]
+
+Example
+MTS ID: 413
+MTS label: class_42
+XEM prediction: class_65
+MTS region used by XEM to predict: [75, 126]
+
+Example
+MTS ID: 414
+MTS label: class_15
+XEM prediction: class_88
+MTS region used by XEM to predict: [179, 230]
+
+Example
+MTS ID: 415
+MTS label: class_67
+XEM prediction: class_52
+MTS region used by XEM to predict: [90, 141]
+
+Example
+MTS ID: 416
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [110, 161]
+
+Example
+MTS ID: 417
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [180, 231]
+
+Example
+MTS ID: 418
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [143, 194]
+
+Example
+MTS ID: 419
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [145, 196]
+
+Example
+MTS ID: 420
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [96, 147]
+
+Example
+MTS ID: 421
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [8, 59]
+
+Example
+MTS ID: 422
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [14, 65]
+
+Example
+MTS ID: 423
+MTS label: class_64
+XEM prediction: class_65
+MTS region used by XEM to predict: [125, 176]
+
+Example
+MTS ID: 424
+MTS label: class_95
+XEM prediction: class_88
+MTS region used by XEM to predict: [84, 135]
+
+Example
+MTS ID: 425
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [188, 239]
+
+Example
+MTS ID: 426
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [131, 182]
+
+Example
+MTS ID: 427
+MTS label: class_95
+XEM prediction: class_95
+MTS region used by XEM to predict: [73, 124]
+
+Example
+MTS ID: 428
+MTS label: class_90
+XEM prediction: class_62
+MTS region used by XEM to predict: [116, 167]
+
+Example
+MTS ID: 429
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [111, 162]
+
+Example
+MTS ID: 430
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [133, 184]
+
+Example
+MTS ID: 431
+MTS label: class_62
+XEM prediction: class_67
+MTS region used by XEM to predict: [9, 60]
+
+Example
+MTS ID: 432
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [109, 160]
+
+Example
+MTS ID: 433
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [116, 167]
+
+Example
+MTS ID: 434
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [57, 108]
+
+Example
+MTS ID: 435
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [67, 118]
+
+Example
+MTS ID: 436
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [28, 79]
+
+Example
+MTS ID: 437
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [193, 244]
+
+Example
+MTS ID: 438
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [149, 200]
+
+Example
+MTS ID: 439
+MTS label: class_65
+XEM prediction: class_42
+MTS region used by XEM to predict: [29, 80]
+
+Example
+MTS ID: 440
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [87, 138]
+
+Example
+MTS ID: 441
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [105, 156]
+
+Example
+MTS ID: 442
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [138, 189]
+
+Example
+MTS ID: 443
+MTS label: class_62
+XEM prediction: class_65
+MTS region used by XEM to predict: [210, 261]
+
+Example
+MTS ID: 444
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [185, 236]
+
+Example
+MTS ID: 445
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [156, 207]
+
+Example
+MTS ID: 446
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [196, 247]
+
+Example
+MTS ID: 447
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [6, 57]
+
+Example
+MTS ID: 448
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [27, 78]
+
+Example
+MTS ID: 449
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [125, 176]
+
+Example
+MTS ID: 450
+MTS label: class_42
+XEM prediction: class_15
+MTS region used by XEM to predict: [43, 94]
+
+Example
+MTS ID: 451
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [62, 113]
+
+Example
+MTS ID: 452
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [129, 180]
+
+Example
+MTS ID: 453
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [204, 255]
+
+Example
+MTS ID: 454
+MTS label: class_42
+XEM prediction: class_16
+MTS region used by XEM to predict: [183, 234]
+
+Example
+MTS ID: 455
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [31, 82]
+
+Example
+MTS ID: 456
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [195, 246]
+
+Example
+MTS ID: 457
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [29, 80]
+
+Example
+MTS ID: 458
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [108, 159]
+
+Example
+MTS ID: 459
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [30, 81]
+
+Example
+MTS ID: 460
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [104, 155]
+
+Example
+MTS ID: 461
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [34, 85]
+
+Example
+MTS ID: 462
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [64, 115]
+
+Example
+MTS ID: 463
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [157, 208]
+
+Example
+MTS ID: 464
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [61, 112]
+
+Example
+MTS ID: 465
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [43, 94]
+
+Example
+MTS ID: 466
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [83, 134]
+
+Example
+MTS ID: 467
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 468
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [44, 95]
+
+Example
+MTS ID: 469
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [60, 111]
+
+Example
+MTS ID: 470
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [155, 206]
+
+Example
+MTS ID: 471
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [163, 214]
+
+Example
+MTS ID: 472
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [2, 53]
+
+Example
+MTS ID: 473
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [134, 185]
+
+Example
+MTS ID: 474
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 475
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [5, 56]
+
+Example
+MTS ID: 476
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [140, 191]
+
+Example
+MTS ID: 477
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [46, 97]
+
+Example
+MTS ID: 478
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [178, 229]
+
+Example
+MTS ID: 479
+MTS label: class_16
+XEM prediction: class_6
+MTS region used by XEM to predict: [158, 209]
+
+Example
+MTS ID: 480
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [208, 259]
+
+Example
+MTS ID: 481
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [73, 124]
+
+Example
+MTS ID: 482
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [2, 53]
+
+Example
+MTS ID: 483
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [74, 125]
+
+Example
+MTS ID: 484
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [44, 95]
+
+Example
+MTS ID: 485
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [38, 89]
+
+Example
+MTS ID: 486
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [61, 112]
+
+Example
+MTS ID: 487
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [86, 137]
+
+Example
+MTS ID: 488
+MTS label: class_67
+XEM prediction: class_62
+MTS region used by XEM to predict: [136, 187]
+
+Example
+MTS ID: 489
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [155, 206]
+
+Example
+MTS ID: 490
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [151, 202]
+
+Example
+MTS ID: 491
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [36, 87]
+
+Example
+MTS ID: 492
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [23, 74]
+
+Example
+MTS ID: 493
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [28, 79]
+
+Example
+MTS ID: 494
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [81, 132]
+
+Example
+MTS ID: 495
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [164, 215]
+
+Example
+MTS ID: 496
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [210, 261]
+
+Example
+MTS ID: 497
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [17, 68]
+
+Example
+MTS ID: 498
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [37, 88]
+
+Example
+MTS ID: 499
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [72, 123]
+
+Example
+MTS ID: 500
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [84, 135]
+
+Example
+MTS ID: 501
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [96, 147]
+
+Example
+MTS ID: 502
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [189, 240]
+
+Example
+MTS ID: 503
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [193, 244]
+
+Example
+MTS ID: 504
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [139, 190]
+
+Example
+MTS ID: 505
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [50, 101]
+
+Example
+MTS ID: 506
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [110, 161]
+
+Example
+MTS ID: 507
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [137, 188]
+
+Example
+MTS ID: 508
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [85, 136]
+
+Example
+MTS ID: 509
+MTS label: class_16
+XEM prediction: class_90
+MTS region used by XEM to predict: [177, 228]
+
+Example
+MTS ID: 510
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [191, 242]
+
+Example
+MTS ID: 511
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [11, 62]
+
+Example
+MTS ID: 512
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [100, 151]
+
+Example
+MTS ID: 513
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [180, 231]
+
+Example
+MTS ID: 514
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [74, 125]
+
+Example
+MTS ID: 515
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [157, 208]
+
+Example
+MTS ID: 516
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [54, 105]
+
+Example
+MTS ID: 517
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [41, 92]
+
+Example
+MTS ID: 518
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [38, 89]
+
+Example
+MTS ID: 519
+MTS label: class_90
+XEM prediction: class_95
+MTS region used by XEM to predict: [153, 204]
+
+Example
+MTS ID: 520
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [53, 104]
+
+Example
+MTS ID: 521
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [172, 223]
+
+Example
+MTS ID: 522
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [206, 257]
+
+Example
+MTS ID: 523
+MTS label: class_64
+XEM prediction: class_42
+MTS region used by XEM to predict: [161, 212]
+
+Example
+MTS ID: 524
+MTS label: class_67
+XEM prediction: class_67
+MTS region used by XEM to predict: [143, 194]
+
+Example
+MTS ID: 525
+MTS label: class_95
+XEM prediction: class_6
+MTS region used by XEM to predict: [201, 252]
+
+Example
+MTS ID: 526
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [121, 172]
+
+Example
+MTS ID: 527
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [134, 185]
+
+Example
+MTS ID: 528
+MTS label: class_65
+XEM prediction: class_64
+MTS region used by XEM to predict: [188, 239]
+
+Example
+MTS ID: 529
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [76, 127]
+
+Example
+MTS ID: 530
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [66, 117]
+
+Example
+MTS ID: 531
+MTS label: class_95
+XEM prediction: class_95
+MTS region used by XEM to predict: [150, 201]
+
+Example
+MTS ID: 532
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [103, 154]
+
+Example
+MTS ID: 533
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [92, 143]
+
+Example
+MTS ID: 534
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [73, 124]
+
+Example
+MTS ID: 535
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [141, 192]
+
+Example
+MTS ID: 536
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [170, 221]
+
+Example
+MTS ID: 537
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [127, 178]
+
+Example
+MTS ID: 538
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [49, 100]
+
+Example
+MTS ID: 539
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [134, 185]
+
+Example
+MTS ID: 540
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [39, 90]
+
+Example
+MTS ID: 541
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [56, 107]
+
+Example
+MTS ID: 542
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [12, 63]
+
+Example
+MTS ID: 543
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [155, 206]
+
+Example
+MTS ID: 544
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [151, 202]
+
+Example
+MTS ID: 545
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [185, 236]
+
+Example
+MTS ID: 546
+MTS label: class_62
+XEM prediction: class_15
+MTS region used by XEM to predict: [21, 72]
+
+Example
+MTS ID: 547
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [114, 165]
+
+Example
+MTS ID: 548
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [12, 63]
+
+Example
+MTS ID: 549
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [176, 227]
+
+Example
+MTS ID: 550
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [152, 203]
+
+Example
+MTS ID: 551
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [84, 135]
+
+Example
+MTS ID: 552
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [120, 171]
+
+Example
+MTS ID: 553
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [86, 137]
+
+Example
+MTS ID: 554
+MTS label: class_67
+XEM prediction: class_67
+MTS region used by XEM to predict: [18, 69]
+
+Example
+MTS ID: 555
+MTS label: class_67
+XEM prediction: class_67
+MTS region used by XEM to predict: [182, 233]
+
+Example
+MTS ID: 556
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 557
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [17, 68]
+
+Example
+MTS ID: 558
+MTS label: class_67
+XEM prediction: class_90
+MTS region used by XEM to predict: [177, 228]
+
+Example
+MTS ID: 559
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [204, 255]
+
+Example
+MTS ID: 560
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [92, 143]
+
+Example
+MTS ID: 561
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [121, 172]
+
+Example
+MTS ID: 562
+MTS label: class_95
+XEM prediction: class_42
+MTS region used by XEM to predict: [40, 91]
+
+Example
+MTS ID: 563
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [42, 93]
+
+Example
+MTS ID: 564
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [117, 168]
+
+Example
+MTS ID: 565
+MTS label: class_95
+XEM prediction: class_95
+MTS region used by XEM to predict: [153, 204]
+
+Example
+MTS ID: 566
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [23, 74]
+
+Example
+MTS ID: 567
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [28, 79]
+
+Example
+MTS ID: 568
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [27, 78]
+
+Example
+MTS ID: 569
+MTS label: class_67
+XEM prediction: class_90
+MTS region used by XEM to predict: [106, 157]
+
+Example
+MTS ID: 570
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [143, 194]
+
+Example
+MTS ID: 571
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [108, 159]
+
+Example
+MTS ID: 572
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [125, 176]
+
+Example
+MTS ID: 573
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [34, 85]
+
+Example
+MTS ID: 574
+MTS label: class_88
+XEM prediction: class_16
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 575
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [106, 157]
+
+Example
+MTS ID: 576
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [191, 242]
+
+Example
+MTS ID: 577
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [81, 132]
+
+Example
+MTS ID: 578
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [70, 121]
+
+Example
+MTS ID: 579
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [132, 183]
+
+Example
+MTS ID: 580
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [67, 118]
+
+Example
+MTS ID: 581
+MTS label: class_42
+XEM prediction: class_65
+MTS region used by XEM to predict: [209, 260]
+
+Example
+MTS ID: 582
+MTS label: class_95
+XEM prediction: class_42
+MTS region used by XEM to predict: [51, 102]
+
+Example
+MTS ID: 583
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [55, 106]
+
+Example
+MTS ID: 584
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [177, 228]
+
+Example
+MTS ID: 585
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [204, 255]
+
+Example
+MTS ID: 586
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [169, 220]
+
+Example
+MTS ID: 587
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [112, 163]
+
+Example
+MTS ID: 588
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [201, 252]
+
+Example
+MTS ID: 589
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [36, 87]
+
+Example
+MTS ID: 590
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [28, 79]
+
+Example
+MTS ID: 591
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [73, 124]
+
+Example
+MTS ID: 592
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [61, 112]
+
+Example
+MTS ID: 593
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [44, 95]
+
+Example
+MTS ID: 594
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [76, 127]
+
+Example
+MTS ID: 595
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [161, 212]
+
+Example
+MTS ID: 596
+MTS label: class_67
+XEM prediction: class_90
+MTS region used by XEM to predict: [41, 92]
+
+Example
+MTS ID: 597
+MTS label: class_67
+XEM prediction: class_67
+MTS region used by XEM to predict: [169, 220]
+
+Example
+MTS ID: 598
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [47, 98]
+
+Example
+MTS ID: 599
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [109, 160]
+
+Example
+MTS ID: 600
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [138, 189]
+
+Example
+MTS ID: 601
+MTS label: class_67
+XEM prediction: class_67
+MTS region used by XEM to predict: [4, 55]
+
+Example
+MTS ID: 602
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [191, 242]
+
+Example
+MTS ID: 603
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [78, 129]
+
+Example
+MTS ID: 604
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [27, 78]
+
+Example
+MTS ID: 605
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [39, 90]
+
+Example
+MTS ID: 606
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [33, 84]
+
+Example
+MTS ID: 607
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [74, 125]
+
+Example
+MTS ID: 608
+MTS label: class_42
+XEM prediction: class_65
+MTS region used by XEM to predict: [117, 168]
+
+Example
+MTS ID: 609
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [114, 165]
+
+Example
+MTS ID: 610
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [38, 89]
+
+Example
+MTS ID: 611
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [162, 213]
+
+Example
+MTS ID: 612
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [133, 184]
+
+Example
+MTS ID: 613
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [66, 117]
+
+Example
+MTS ID: 614
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [94, 145]
+
+Example
+MTS ID: 615
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [136, 187]
+
+Example
+MTS ID: 616
+MTS label: class_42
+XEM prediction: class_88
+MTS region used by XEM to predict: [151, 202]
+
+Example
+MTS ID: 617
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [127, 178]
+
+Example
+MTS ID: 618
+MTS label: class_92
+XEM prediction: class_16
+MTS region used by XEM to predict: [41, 92]
+
+Example
+MTS ID: 619
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [2, 53]
+
+Example
+MTS ID: 620
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [70, 121]
+
+Example
+MTS ID: 621
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [69, 120]
+
+Example
+MTS ID: 622
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [55, 106]
+
+Example
+MTS ID: 623
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [113, 164]
+
+Example
+MTS ID: 624
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [18, 69]
+
+Example
+MTS ID: 625
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [136, 187]
+
+Example
+MTS ID: 626
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [98, 149]
+
+Example
+MTS ID: 627
+MTS label: class_67
+XEM prediction: class_67
+MTS region used by XEM to predict: [146, 197]
+
+Example
+MTS ID: 628
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [141, 192]
+
+Example
+MTS ID: 629
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [165, 216]
+
+Example
+MTS ID: 630
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [209, 260]
+
+Example
+MTS ID: 631
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [124, 175]
+
+Example
+MTS ID: 632
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [208, 259]
+
+Example
+MTS ID: 633
+MTS label: class_67
+XEM prediction: class_90
+MTS region used by XEM to predict: [134, 185]
+
+Example
+MTS ID: 634
+MTS label: class_67
+XEM prediction: class_67
+MTS region used by XEM to predict: [171, 222]
+
+Example
+MTS ID: 635
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [139, 190]
+
+Example
+MTS ID: 636
+MTS label: class_67
+XEM prediction: class_42
+MTS region used by XEM to predict: [124, 175]
+
+Example
+MTS ID: 637
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [139, 190]
+
+Example
+MTS ID: 638
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [143, 194]
+
+Example
+MTS ID: 639
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [159, 210]
+
+Example
+MTS ID: 640
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [135, 186]
+
+Example
+MTS ID: 641
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [8, 59]
+
+Example
+MTS ID: 642
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [138, 189]
+
+Example
+MTS ID: 643
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [20, 71]
+
+Example
+MTS ID: 644
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [77, 128]
+
+Example
+MTS ID: 645
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [135, 186]
+
+Example
+MTS ID: 646
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [60, 111]
+
+Example
+MTS ID: 647
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [145, 196]
+
+Example
+MTS ID: 648
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [203, 254]
+
+Example
+MTS ID: 649
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [191, 242]
+
+Example
+MTS ID: 650
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [72, 123]
+
+Example
+MTS ID: 651
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [69, 120]
+
+Example
+MTS ID: 652
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [64, 115]
+
+Example
+MTS ID: 653
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [8, 59]
+
+Example
+MTS ID: 654
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [199, 250]
+
+Example
+MTS ID: 655
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [160, 211]
+
+Example
+MTS ID: 656
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [83, 134]
+
+Example
+MTS ID: 657
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [116, 167]
+
+Example
+MTS ID: 658
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [44, 95]
+
+Example
+MTS ID: 659
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [99, 150]
+
+Example
+MTS ID: 660
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [96, 147]
+
+Example
+MTS ID: 661
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [101, 152]
+
+Example
+MTS ID: 662
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [78, 129]
+
+Example
+MTS ID: 663
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [110, 161]
+
+Example
+MTS ID: 664
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [85, 136]
+
+Example
+MTS ID: 665
+MTS label: class_62
+XEM prediction: class_65
+MTS region used by XEM to predict: [30, 81]
+
+Example
+MTS ID: 666
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [69, 120]
+
+Example
+MTS ID: 667
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [181, 232]
+
+Example
+MTS ID: 668
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [60, 111]
+
+Example
+MTS ID: 669
+MTS label: class_6
+XEM prediction: class_53
+MTS region used by XEM to predict: [208, 259]
+
+Example
+MTS ID: 670
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [23, 74]
+
+Example
+MTS ID: 671
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [78, 129]
+
+Example
+MTS ID: 672
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [167, 218]
+
+Example
+MTS ID: 673
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [99, 150]
+
+Example
+MTS ID: 674
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [107, 158]
+
+Example
+MTS ID: 675
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [159, 210]
+
+Example
+MTS ID: 676
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [121, 172]
+
+Example
+MTS ID: 677
+MTS label: class_42
+XEM prediction: class_67
+MTS region used by XEM to predict: [17, 68]
+
+Example
+MTS ID: 678
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [85, 136]
+
+Example
+MTS ID: 679
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [39, 90]
+
+Example
+MTS ID: 680
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [17, 68]
+
+Example
+MTS ID: 681
+MTS label: class_42
+XEM prediction: class_88
+MTS region used by XEM to predict: [111, 162]
+
+Example
+MTS ID: 682
+MTS label: class_42
+XEM prediction: class_15
+MTS region used by XEM to predict: [34, 85]
+
+Example
+MTS ID: 683
+MTS label: class_65
+XEM prediction: class_42
+MTS region used by XEM to predict: [64, 115]
+
+Example
+MTS ID: 684
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [106, 157]
+
+Example
+MTS ID: 685
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 686
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [188, 239]
+
+Example
+MTS ID: 687
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [4, 55]
+
+Example
+MTS ID: 688
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [188, 239]
+
+Example
+MTS ID: 689
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [97, 148]
+
+Example
+MTS ID: 690
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [4, 55]
+
+Example
+MTS ID: 691
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [21, 72]
+
+Example
+MTS ID: 692
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [48, 99]
+
+Example
+MTS ID: 693
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [134, 185]
+
+Example
+MTS ID: 694
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [29, 80]
+
+Example
+MTS ID: 695
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [179, 230]
+
+Example
+MTS ID: 696
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [155, 206]
+
+Example
+MTS ID: 697
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [205, 256]
+
+Example
+MTS ID: 698
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [81, 132]
+
+Example
+MTS ID: 699
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [138, 189]
+
+Example
+MTS ID: 700
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [37, 88]
+
+Example
+MTS ID: 701
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [132, 183]
+
+Example
+MTS ID: 702
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [195, 246]
+
+Example
+MTS ID: 703
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [55, 106]
+
+Example
+MTS ID: 704
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [45, 96]
+
+Example
+MTS ID: 705
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [206, 257]
+
+Example
+MTS ID: 706
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [102, 153]
+
+Example
+MTS ID: 707
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [52, 103]
+
+Example
+MTS ID: 708
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [34, 85]
+
+Example
+MTS ID: 709
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [171, 222]
+
+Example
+MTS ID: 710
+MTS label: class_67
+XEM prediction: class_67
+MTS region used by XEM to predict: [68, 119]
+
+Example
+MTS ID: 711
+MTS label: class_42
+XEM prediction: class_65
+MTS region used by XEM to predict: [196, 247]
+
+Example
+MTS ID: 712
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [30, 81]
+
+Example
+MTS ID: 713
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [41, 92]
+
+Example
+MTS ID: 714
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [131, 182]
+
+Example
+MTS ID: 715
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [139, 190]
+
+Example
+MTS ID: 716
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [9, 60]
+
+Example
+MTS ID: 717
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [158, 209]
+
+Example
+MTS ID: 718
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [2, 53]
+
+Example
+MTS ID: 719
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [100, 151]
+
+Example
+MTS ID: 720
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [101, 152]
+
+Example
+MTS ID: 721
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [53, 104]
+
+Example
+MTS ID: 722
+MTS label: class_42
+XEM prediction: class_15
+MTS region used by XEM to predict: [137, 188]
+
+Example
+MTS ID: 723
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [13, 64]
+
+Example
+MTS ID: 724
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [178, 229]
+
+Example
+MTS ID: 725
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [176, 227]
+
+Example
+MTS ID: 726
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [206, 257]
+
+Example
+MTS ID: 727
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [78, 129]
+
+Example
+MTS ID: 728
+MTS label: class_52
+XEM prediction: class_6
+MTS region used by XEM to predict: [104, 155]
+
+Example
+MTS ID: 729
+MTS label: class_52
+XEM prediction: class_62
+MTS region used by XEM to predict: [40, 91]
+
+Example
+MTS ID: 730
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [114, 165]
+
+Example
+MTS ID: 731
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [30, 81]
+
+Example
+MTS ID: 732
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [156, 207]
+
+Example
+MTS ID: 733
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [21, 72]
+
+Example
+MTS ID: 734
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [176, 227]
+
+Example
+MTS ID: 735
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [163, 214]
+
+Example
+MTS ID: 736
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [180, 231]
+
+Example
+MTS ID: 737
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [66, 117]
+
+Example
+MTS ID: 738
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [20, 71]
+
+Example
+MTS ID: 739
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [203, 254]
+
+Example
+MTS ID: 740
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [182, 233]
+
+Example
+MTS ID: 741
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [210, 261]
+
+Example
+MTS ID: 742
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [22, 73]
+
+Example
+MTS ID: 743
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [140, 191]
+
+Example
+MTS ID: 744
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [173, 224]
+
+Example
+MTS ID: 745
+MTS label: class_42
+XEM prediction: class_65
+MTS region used by XEM to predict: [172, 223]
+
+Example
+MTS ID: 746
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [114, 165]
+
+Example
+MTS ID: 747
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [86, 137]
+
+Example
+MTS ID: 748
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [55, 106]
+
+Example
+MTS ID: 749
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [175, 226]
+
+Example
+MTS ID: 750
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 751
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [133, 184]
+
+Example
+MTS ID: 752
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [78, 129]
+
+Example
+MTS ID: 753
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [131, 182]
+
+Example
+MTS ID: 754
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [34, 85]
+
+Example
+MTS ID: 755
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [101, 152]
+
+Example
+MTS ID: 756
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [138, 189]
+
+Example
+MTS ID: 757
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [180, 231]
+
+Example
+MTS ID: 758
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [29, 80]
+
+Example
+MTS ID: 759
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [161, 212]
+
+Example
+MTS ID: 760
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [81, 132]
+
+Example
+MTS ID: 761
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [165, 216]
+
+Example
+MTS ID: 762
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [46, 97]
+
+Example
+MTS ID: 763
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [64, 115]
+
+Example
+MTS ID: 764
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [78, 129]
+
+Example
+MTS ID: 765
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [120, 171]
+
+Example
+MTS ID: 766
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [20, 71]
+
+Example
+MTS ID: 767
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [4, 55]
+
+Example
+MTS ID: 768
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [18, 69]
+
+Example
+MTS ID: 769
+MTS label: class_53
+XEM prediction: class_53
+MTS region used by XEM to predict: [84, 135]
+
+Example
+MTS ID: 770
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [56, 107]
+
+Example
+MTS ID: 771
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [169, 220]
+
+Example
+MTS ID: 772
+MTS label: class_92
+XEM prediction: class_16
+MTS region used by XEM to predict: [74, 125]
+
+Example
+MTS ID: 773
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [74, 125]
+
+Example
+MTS ID: 774
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [164, 215]
+
+Example
+MTS ID: 775
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [14, 65]
+
+Example
+MTS ID: 776
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [134, 185]
+
+Example
+MTS ID: 777
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 778
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [185, 236]
+
+Example
+MTS ID: 779
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [166, 217]
+
+Example
+MTS ID: 780
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [74, 125]
+
+Example
+MTS ID: 781
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [110, 161]
+
+Example
+MTS ID: 782
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [97, 148]
+
+Example
+MTS ID: 783
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [137, 188]
+
+Example
+MTS ID: 784
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [140, 191]
+
+Example
+MTS ID: 785
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [2, 53]
+
+Example
+MTS ID: 786
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [11, 62]
+
+Example
+MTS ID: 787
+MTS label: class_16
+XEM prediction: class_92
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 788
+MTS label: class_65
+XEM prediction: class_16
+MTS region used by XEM to predict: [178, 229]
+
+Example
+MTS ID: 789
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [12, 63]
+
+Example
+MTS ID: 790
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [75, 126]
+
+Example
+MTS ID: 791
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [76, 127]
+
+Example
+MTS ID: 792
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [133, 184]
+
+Example
+MTS ID: 793
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [43, 94]
+
+Example
+MTS ID: 794
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [138, 189]
+
+Example
+MTS ID: 795
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [68, 119]
+
+Example
+MTS ID: 796
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [46, 97]
+
+Example
+MTS ID: 797
+MTS label: class_6
+XEM prediction: class_95
+MTS region used by XEM to predict: [16, 67]
+
+Example
+MTS ID: 798
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [34, 85]
+
+Example
+MTS ID: 799
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [92, 143]
+
+Example
+MTS ID: 800
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [110, 161]
+
+Example
+MTS ID: 801
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [89, 140]
+
+Example
+MTS ID: 802
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [47, 98]
+
+Example
+MTS ID: 803
+MTS label: class_65
+XEM prediction: class_90
+MTS region used by XEM to predict: [130, 181]
+
+Example
+MTS ID: 804
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [164, 215]
+
+Example
+MTS ID: 805
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [48, 99]
+
+Example
+MTS ID: 806
+MTS label: class_15
+XEM prediction: class_42
+MTS region used by XEM to predict: [200, 251]
+
+Example
+MTS ID: 807
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [66, 117]
+
+Example
+MTS ID: 808
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 809
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [102, 153]
+
+Example
+MTS ID: 810
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [186, 237]
+
+Example
+MTS ID: 811
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [20, 71]
+
+Example
+MTS ID: 812
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [128, 179]
+
+Example
+MTS ID: 813
+MTS label: class_95
+XEM prediction: class_42
+MTS region used by XEM to predict: [192, 243]
+
+Example
+MTS ID: 814
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 815
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [164, 215]
+
+Example
+MTS ID: 816
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [135, 186]
+
+Example
+MTS ID: 817
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 818
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [140, 191]
+
+Example
+MTS ID: 819
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [52, 103]
+
+Example
+MTS ID: 820
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [138, 189]
+
+Example
+MTS ID: 821
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [188, 239]
+
+Example
+MTS ID: 822
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [194, 245]
+
+Example
+MTS ID: 823
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [171, 222]
+
+Example
+MTS ID: 824
+MTS label: class_6
+XEM prediction: class_15
+MTS region used by XEM to predict: [139, 190]
+
+Example
+MTS ID: 825
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [155, 206]
+
+Example
+MTS ID: 826
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [161, 212]
+
+Example
+MTS ID: 827
+MTS label: class_42
+XEM prediction: class_16
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 828
+MTS label: class_95
+XEM prediction: class_42
+MTS region used by XEM to predict: [156, 207]
+
+Example
+MTS ID: 829
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [121, 172]
+
+Example
+MTS ID: 830
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [114, 165]
+
+Example
+MTS ID: 831
+MTS label: class_95
+XEM prediction: class_42
+MTS region used by XEM to predict: [117, 168]
+
+Example
+MTS ID: 832
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [36, 87]
+
+Example
+MTS ID: 833
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [42, 93]
+
+Example
+MTS ID: 834
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [119, 170]
+
+Example
+MTS ID: 835
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [208, 259]
+
+Example
+MTS ID: 836
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [96, 147]
+
+Example
+MTS ID: 837
+MTS label: class_64
+XEM prediction: class_65
+MTS region used by XEM to predict: [199, 250]
+
+Example
+MTS ID: 838
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [30, 81]
+
+Example
+MTS ID: 839
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [44, 95]
+
+Example
+MTS ID: 840
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [9, 60]
+
+Example
+MTS ID: 841
+MTS label: class_95
+XEM prediction: class_65
+MTS region used by XEM to predict: [203, 254]
+
+Example
+MTS ID: 842
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [210, 261]
+
+Example
+MTS ID: 843
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [127, 178]
+
+Example
+MTS ID: 844
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [155, 206]
+
+Example
+MTS ID: 845
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [64, 115]
+
+Example
+MTS ID: 846
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [56, 107]
+
+Example
+MTS ID: 847
+MTS label: class_15
+XEM prediction: class_90
+MTS region used by XEM to predict: [127, 178]
+
+Example
+MTS ID: 848
+MTS label: class_42
+XEM prediction: class_62
+MTS region used by XEM to predict: [63, 114]
+
+Example
+MTS ID: 849
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [39, 90]
+
+Example
+MTS ID: 850
+MTS label: class_95
+XEM prediction: class_42
+MTS region used by XEM to predict: [210, 261]
+
+Example
+MTS ID: 851
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [168, 219]
+
+Example
+MTS ID: 852
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [140, 191]
+
+Example
+MTS ID: 853
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [92, 143]
+
+Example
+MTS ID: 854
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [64, 115]
+
+Example
+MTS ID: 855
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [36, 87]
+
+Example
+MTS ID: 856
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [87, 138]
+
+Example
+MTS ID: 857
+MTS label: class_64
+XEM prediction: class_65
+MTS region used by XEM to predict: [101, 152]
+
+Example
+MTS ID: 858
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [102, 153]
+
+Example
+MTS ID: 859
+MTS label: class_53
+XEM prediction: class_53
+MTS region used by XEM to predict: [87, 138]
+
+Example
+MTS ID: 860
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [131, 182]
+
+Example
+MTS ID: 861
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [159, 210]
+
+Example
+MTS ID: 862
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [13, 64]
+
+Example
+MTS ID: 863
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [32, 83]
+
+Example
+MTS ID: 864
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [169, 220]
+
+Example
+MTS ID: 865
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [147, 198]
+
+Example
+MTS ID: 866
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [18, 69]
+
+Example
+MTS ID: 867
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [89, 140]
+
+Example
+MTS ID: 868
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 869
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [80, 131]
+
+Example
+MTS ID: 870
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [172, 223]
+
+Example
+MTS ID: 871
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [78, 129]
+
+Example
+MTS ID: 872
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [10, 61]
+
+Example
+MTS ID: 873
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [62, 113]
+
+Example
+MTS ID: 874
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [149, 200]
+
+Example
+MTS ID: 875
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [27, 78]
+
+Example
+MTS ID: 876
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [7, 58]
+
+Example
+MTS ID: 877
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [115, 166]
+
+Example
+MTS ID: 878
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [116, 167]
+
+Example
+MTS ID: 879
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [29, 80]
+
+Example
+MTS ID: 880
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [100, 151]
+
+Example
+MTS ID: 881
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [16, 67]
+
+Example
+MTS ID: 882
+MTS label: class_64
+XEM prediction: class_90
+MTS region used by XEM to predict: [134, 185]
+
+Example
+MTS ID: 883
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [167, 218]
+
+Example
+MTS ID: 884
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [90, 141]
+
+Example
+MTS ID: 885
+MTS label: class_90
+XEM prediction: class_6
+MTS region used by XEM to predict: [164, 215]
+
+Example
+MTS ID: 886
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [149, 200]
+
+Example
+MTS ID: 887
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [27, 78]
+
+Example
+MTS ID: 888
+MTS label: class_15
+XEM prediction: class_42
+MTS region used by XEM to predict: [57, 108]
+
+Example
+MTS ID: 889
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [42, 93]
+
+Example
+MTS ID: 890
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 891
+MTS label: class_42
+XEM prediction: class_88
+MTS region used by XEM to predict: [4, 55]
+
+Example
+MTS ID: 892
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [208, 259]
+
+Example
+MTS ID: 893
+MTS label: class_92
+XEM prediction: class_16
+MTS region used by XEM to predict: [26, 77]
+
+Example
+MTS ID: 894
+MTS label: class_67
+XEM prediction: class_15
+MTS region used by XEM to predict: [145, 196]
+
+Example
+MTS ID: 895
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [23, 74]
+
+Example
+MTS ID: 896
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [39, 90]
+
+Example
+MTS ID: 897
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [200, 251]
+
+Example
+MTS ID: 898
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [147, 198]
+
+Example
+MTS ID: 899
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [163, 214]
+
+Example
+MTS ID: 900
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [156, 207]
+
+Example
+MTS ID: 901
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [157, 208]
+
+Example
+MTS ID: 902
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [97, 148]
+
+Example
+MTS ID: 903
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [100, 151]
+
+Example
+MTS ID: 904
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [203, 254]
+
+Example
+MTS ID: 905
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [110, 161]
+
+Example
+MTS ID: 906
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [35, 86]
+
+Example
+MTS ID: 907
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [146, 197]
+
+Example
+MTS ID: 908
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [144, 195]
+
+Example
+MTS ID: 909
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [184, 235]
+
+Example
+MTS ID: 910
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [65, 116]
+
+Example
+MTS ID: 911
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [104, 155]
+
+Example
+MTS ID: 912
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [152, 203]
+
+Example
+MTS ID: 913
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [29, 80]
+
+Example
+MTS ID: 914
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [56, 107]
+
+Example
+MTS ID: 915
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [72, 123]
+
+Example
+MTS ID: 916
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [19, 70]
+
+Example
+MTS ID: 917
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [11, 62]
+
+Example
+MTS ID: 918
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [78, 129]
+
+Example
+MTS ID: 919
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [6, 57]
+
+Example
+MTS ID: 920
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [140, 191]
+
+Example
+MTS ID: 921
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [102, 153]
+
+Example
+MTS ID: 922
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [110, 161]
+
+Example
+MTS ID: 923
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [105, 156]
+
+Example
+MTS ID: 924
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [107, 158]
+
+Example
+MTS ID: 925
+MTS label: class_42
+XEM prediction: class_88
+MTS region used by XEM to predict: [137, 188]
+
+Example
+MTS ID: 926
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [60, 111]
+
+Example
+MTS ID: 927
+MTS label: class_67
+XEM prediction: class_90
+MTS region used by XEM to predict: [171, 222]
+
+Example
+MTS ID: 928
+MTS label: class_95
+XEM prediction: class_90
+MTS region used by XEM to predict: [42, 93]
+
+Example
+MTS ID: 929
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [173, 224]
+
+Example
+MTS ID: 930
+MTS label: class_42
+XEM prediction: class_65
+MTS region used by XEM to predict: [110, 161]
+
+Example
+MTS ID: 931
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [118, 169]
+
+Example
+MTS ID: 932
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [177, 228]
+
+Example
+MTS ID: 933
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [93, 144]
+
+Example
+MTS ID: 934
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [120, 171]
+
+Example
+MTS ID: 935
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [148, 199]
+
+Example
+MTS ID: 936
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [108, 159]
+
+Example
+MTS ID: 937
+MTS label: class_67
+XEM prediction: class_90
+MTS region used by XEM to predict: [100, 151]
+
+Example
+MTS ID: 938
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 939
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [159, 210]
+
+Example
+MTS ID: 940
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [19, 70]
+
+Example
+MTS ID: 941
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [30, 81]
+
+Example
+MTS ID: 942
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [9, 60]
+
+Example
+MTS ID: 943
+MTS label: class_90
+XEM prediction: class_88
+MTS region used by XEM to predict: [23, 74]
+
+Example
+MTS ID: 944
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [49, 100]
+
+Example
+MTS ID: 945
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [84, 135]
+
+Example
+MTS ID: 946
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [118, 169]
+
+Example
+MTS ID: 947
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 948
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [109, 160]
+
+Example
+MTS ID: 949
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [119, 170]
+
+Example
+MTS ID: 950
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [114, 165]
+
+Example
+MTS ID: 951
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [20, 71]
+
+Example
+MTS ID: 952
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [77, 128]
+
+Example
+MTS ID: 953
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [203, 254]
+
+Example
+MTS ID: 954
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [178, 229]
+
+Example
+MTS ID: 955
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [23, 74]
+
+Example
+MTS ID: 956
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [58, 109]
+
+Example
+MTS ID: 957
+MTS label: class_52
+XEM prediction: class_15
+MTS region used by XEM to predict: [6, 57]
+
+Example
+MTS ID: 958
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [168, 219]
+
+Example
+MTS ID: 959
+MTS label: class_95
+XEM prediction: class_88
+MTS region used by XEM to predict: [196, 247]
+
+Example
+MTS ID: 960
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [61, 112]
+
+Example
+MTS ID: 961
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [199, 250]
+
+Example
+MTS ID: 962
+MTS label: class_65
+XEM prediction: class_15
+MTS region used by XEM to predict: [194, 245]
+
+Example
+MTS ID: 963
+MTS label: class_15
+XEM prediction: class_90
+MTS region used by XEM to predict: [84, 135]
+
+Example
+MTS ID: 964
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [56, 107]
+
+Example
+MTS ID: 965
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 966
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [36, 87]
+
+Example
+MTS ID: 967
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [142, 193]
+
+Example
+MTS ID: 968
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [78, 129]
+
+Example
+MTS ID: 969
+MTS label: class_90
+XEM prediction: class_52
+MTS region used by XEM to predict: [13, 64]
+
+Example
+MTS ID: 970
+MTS label: class_67
+XEM prediction: class_90
+MTS region used by XEM to predict: [128, 179]
+
+Example
+MTS ID: 971
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [119, 170]
+
+Example
+MTS ID: 972
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [126, 177]
+
+Example
+MTS ID: 973
+MTS label: class_67
+XEM prediction: class_67
+MTS region used by XEM to predict: [68, 119]
+
+Example
+MTS ID: 974
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [87, 138]
+
+Example
+MTS ID: 975
+MTS label: class_64
+XEM prediction: class_90
+MTS region used by XEM to predict: [149, 200]
+
+Example
+MTS ID: 976
+MTS label: class_52
+XEM prediction: class_42
+MTS region used by XEM to predict: [28, 79]
+
+Example
+MTS ID: 977
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [19, 70]
+
+Example
+MTS ID: 978
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [38, 89]
+
+Example
+MTS ID: 979
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [20, 71]
+
+Example
+MTS ID: 980
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [155, 206]
+
+Example
+MTS ID: 981
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [201, 252]
+
+Example
+MTS ID: 982
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [166, 217]
+
+Example
+MTS ID: 983
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [137, 188]
+
+Example
+MTS ID: 984
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [162, 213]
+
+Example
+MTS ID: 985
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [178, 229]
+
+Example
+MTS ID: 986
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [75, 126]
+
+Example
+MTS ID: 987
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [180, 231]
+
+Example
+MTS ID: 988
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [60, 111]
+
+Example
+MTS ID: 989
+MTS label: class_53
+XEM prediction: class_53
+MTS region used by XEM to predict: [200, 251]
+
+Example
+MTS ID: 990
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [103, 154]
+
+Example
+MTS ID: 991
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [174, 225]
+
+Example
+MTS ID: 992
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [81, 132]
+
+Example
+MTS ID: 993
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [56, 107]
+
+Example
+MTS ID: 994
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [28, 79]
+
+Example
+MTS ID: 995
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [116, 167]
+
+Example
+MTS ID: 996
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [12, 63]
+
+Example
+MTS ID: 997
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [152, 203]
+
+Example
+MTS ID: 998
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [128, 179]
+
+Example
+MTS ID: 999
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [143, 194]
+
+Example
+MTS ID: 1000
+MTS label: class_92
+XEM prediction: class_16
+MTS region used by XEM to predict: [135, 186]
+
+Example
+MTS ID: 1001
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [4, 55]
+
+Example
+MTS ID: 1002
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [191, 242]
+
+Example
+MTS ID: 1003
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [120, 171]
+
+Example
+MTS ID: 1004
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 1005
+MTS label: class_65
+XEM prediction: class_16
+MTS region used by XEM to predict: [55, 106]
+
+Example
+MTS ID: 1006
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [156, 207]
+
+Example
+MTS ID: 1007
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [91, 142]
+
+Example
+MTS ID: 1008
+MTS label: class_16
+XEM prediction: class_6
+MTS region used by XEM to predict: [123, 174]
+
+Example
+MTS ID: 1009
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [124, 175]
+
+Example
+MTS ID: 1010
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [42, 93]
+
+Example
+MTS ID: 1011
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [189, 240]
+
+Example
+MTS ID: 1012
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [160, 211]
+
+Example
+MTS ID: 1013
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [134, 185]
+
+Example
+MTS ID: 1014
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [80, 131]
+
+Example
+MTS ID: 1015
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [15, 66]
+
+Example
+MTS ID: 1016
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [32, 83]
+
+Example
+MTS ID: 1017
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [135, 186]
+
+Example
+MTS ID: 1018
+MTS label: class_67
+XEM prediction: class_67
+MTS region used by XEM to predict: [142, 193]
+
+Example
+MTS ID: 1019
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [63, 114]
+
+Example
+MTS ID: 1020
+MTS label: class_42
+XEM prediction: class_62
+MTS region used by XEM to predict: [133, 184]
+
+Example
+MTS ID: 1021
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [59, 110]
+
+Example
+MTS ID: 1022
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [88, 139]
+
+Example
+MTS ID: 1023
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [42, 93]
+
+Example
+MTS ID: 1024
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [160, 211]
+
+Example
+MTS ID: 1025
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [51, 102]
+
+Example
+MTS ID: 1026
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [34, 85]
+
+Example
+MTS ID: 1027
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [70, 121]
+
+Example
+MTS ID: 1028
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [153, 204]
+
+Example
+MTS ID: 1029
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [35, 86]
+
+Example
+MTS ID: 1030
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [65, 116]
+
+Example
+MTS ID: 1031
+MTS label: class_67
+XEM prediction: class_42
+MTS region used by XEM to predict: [112, 163]
+
+Example
+MTS ID: 1032
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [76, 127]
+
+Example
+MTS ID: 1033
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [31, 82]
+
+Example
+MTS ID: 1034
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [6, 57]
+
+Example
+MTS ID: 1035
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [57, 108]
+
+Example
+MTS ID: 1036
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [35, 86]
+
+Example
+MTS ID: 1037
+MTS label: class_67
+XEM prediction: class_15
+MTS region used by XEM to predict: [135, 186]
+
+Example
+MTS ID: 1038
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [21, 72]
+
+Example
+MTS ID: 1039
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [13, 64]
+
+Example
+MTS ID: 1040
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [69, 120]
+
+Example
+MTS ID: 1041
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [53, 104]
+
+Example
+MTS ID: 1042
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 1043
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [163, 214]
+
+Example
+MTS ID: 1044
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [136, 187]
+
+Example
+MTS ID: 1045
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [17, 68]
+
+Example
+MTS ID: 1046
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [61, 112]
+
+Example
+MTS ID: 1047
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [176, 227]
+
+Example
+MTS ID: 1048
+MTS label: class_42
+XEM prediction: class_65
+MTS region used by XEM to predict: [31, 82]
+
+Example
+MTS ID: 1049
+MTS label: class_42
+XEM prediction: class_15
+MTS region used by XEM to predict: [152, 203]
+
+Example
+MTS ID: 1050
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [51, 102]
+
+Example
+MTS ID: 1051
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [11, 62]
+
+Example
+MTS ID: 1052
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [31, 82]
+
+Example
+MTS ID: 1053
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [103, 154]
+
+Example
+MTS ID: 1054
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [177, 228]
+
+Example
+MTS ID: 1055
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [191, 242]
+
+Example
+MTS ID: 1056
+MTS label: class_62
+XEM prediction: class_67
+MTS region used by XEM to predict: [170, 221]
+
+Example
+MTS ID: 1057
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [22, 73]
+
+Example
+MTS ID: 1058
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 1059
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [125, 176]
+
+Example
+MTS ID: 1060
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [200, 251]
+
+Example
+MTS ID: 1061
+MTS label: class_62
+XEM prediction: class_65
+MTS region used by XEM to predict: [127, 178]
+
+Example
+MTS ID: 1062
+MTS label: class_16
+XEM prediction: class_92
+MTS region used by XEM to predict: [39, 90]
+
+Example
+MTS ID: 1063
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [164, 215]
+
+Example
+MTS ID: 1064
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 1065
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [176, 227]
+
+Example
+MTS ID: 1066
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [176, 227]
+
+Example
+MTS ID: 1067
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [135, 186]
+
+Example
+MTS ID: 1068
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [182, 233]
+
+Example
+MTS ID: 1069
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [78, 129]
+
+Example
+MTS ID: 1070
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [12, 63]
+
+Example
+MTS ID: 1071
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [104, 155]
+
+Example
+MTS ID: 1072
+MTS label: class_67
+XEM prediction: class_62
+MTS region used by XEM to predict: [81, 132]
+
+Example
+MTS ID: 1073
+MTS label: class_95
+XEM prediction: class_90
+MTS region used by XEM to predict: [150, 201]
+
+Example
+MTS ID: 1074
+MTS label: class_65
+XEM prediction: class_6
+MTS region used by XEM to predict: [120, 171]
+
+Example
+MTS ID: 1075
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [164, 215]
+
+Example
+MTS ID: 1076
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [36, 87]
+
+Example
+MTS ID: 1077
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [83, 134]
+
+Example
+MTS ID: 1078
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [76, 127]
+
+Example
+MTS ID: 1079
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [163, 214]
+
+Example
+MTS ID: 1080
+MTS label: class_67
+XEM prediction: class_67
+MTS region used by XEM to predict: [161, 212]
+
+Example
+MTS ID: 1081
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [194, 245]
+
+Example
+MTS ID: 1082
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [59, 110]
+
+Example
+MTS ID: 1083
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [5, 56]
+
+Example
+MTS ID: 1084
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [14, 65]
+
+Example
+MTS ID: 1085
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [69, 120]
+
+Example
+MTS ID: 1086
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [37, 88]
+
+Example
+MTS ID: 1087
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [60, 111]
+
+Example
+MTS ID: 1088
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [98, 149]
+
+Example
+MTS ID: 1089
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [154, 205]
+
+Example
+MTS ID: 1090
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [143, 194]
+
+Example
+MTS ID: 1091
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [87, 138]
+
+Example
+MTS ID: 1092
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [160, 211]
+
+Example
+MTS ID: 1093
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [81, 132]
+
+Example
+MTS ID: 1094
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [92, 143]
+
+Example
+MTS ID: 1095
+MTS label: class_67
+XEM prediction: class_67
+MTS region used by XEM to predict: [98, 149]
+
+Example
+MTS ID: 1096
+MTS label: class_92
+XEM prediction: class_16
+MTS region used by XEM to predict: [202, 253]
+
+Example
+MTS ID: 1097
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [98, 149]
+
+Example
+MTS ID: 1098
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [178, 229]
+
+Example
+MTS ID: 1099
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [176, 227]
+
+Example
+MTS ID: 1100
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [2, 53]
+
+Example
+MTS ID: 1101
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [110, 161]
+
+Example
+MTS ID: 1102
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [201, 252]
+
+Example
+MTS ID: 1103
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [154, 205]
+
+Example
+MTS ID: 1104
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [43, 94]
+
+Example
+MTS ID: 1105
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [192, 243]
+
+Example
+MTS ID: 1106
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [70, 121]
+
+Example
+MTS ID: 1107
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 1108
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [141, 192]
+
+Example
+MTS ID: 1109
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [57, 108]
+
+Example
+MTS ID: 1110
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [201, 252]
+
+Example
+MTS ID: 1111
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [118, 169]
+
+Example
+MTS ID: 1112
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [209, 260]
+
+Example
+MTS ID: 1113
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [53, 104]
+
+Example
+MTS ID: 1114
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [89, 140]
+
+Example
+MTS ID: 1115
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [66, 117]
+
+Example
+MTS ID: 1116
+MTS label: class_42
+XEM prediction: class_16
+MTS region used by XEM to predict: [116, 167]
+
+Example
+MTS ID: 1117
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [94, 145]
+
+Example
+MTS ID: 1118
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [90, 141]
+
+Example
+MTS ID: 1119
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [189, 240]
+
+Example
+MTS ID: 1120
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [80, 131]
+
+Example
+MTS ID: 1121
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [40, 91]
+
+Example
+MTS ID: 1122
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [172, 223]
+
+Example
+MTS ID: 1123
+MTS label: class_65
+XEM prediction: class_42
+MTS region used by XEM to predict: [10, 61]
+
+Example
+MTS ID: 1124
+MTS label: class_42
+XEM prediction: class_16
+MTS region used by XEM to predict: [55, 106]
+
+Example
+MTS ID: 1125
+MTS label: class_42
+XEM prediction: class_88
+MTS region used by XEM to predict: [55, 106]
+
+Example
+MTS ID: 1126
+MTS label: class_65
+XEM prediction: class_16
+MTS region used by XEM to predict: [56, 107]
+
+Example
+MTS ID: 1127
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [44, 95]
+
+Example
+MTS ID: 1128
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [152, 203]
+
+Example
+MTS ID: 1129
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [101, 152]
+
+Example
+MTS ID: 1130
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 1131
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [60, 111]
+
+Example
+MTS ID: 1132
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [10, 61]
+
+Example
+MTS ID: 1133
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [2, 53]
+
+Example
+MTS ID: 1134
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [166, 217]
+
+Example
+MTS ID: 1135
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [100, 151]
+
+Example
+MTS ID: 1136
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [35, 86]
+
+Example
+MTS ID: 1137
+MTS label: class_42
+XEM prediction: class_64
+MTS region used by XEM to predict: [139, 190]
+
+Example
+MTS ID: 1138
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [152, 203]
+
+Example
+MTS ID: 1139
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [52, 103]
+
+Example
+MTS ID: 1140
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [125, 176]
+
+Example
+MTS ID: 1141
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [32, 83]
+
+Example
+MTS ID: 1142
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [140, 191]
+
+Example
+MTS ID: 1143
+MTS label: class_95
+XEM prediction: class_90
+MTS region used by XEM to predict: [115, 166]
+
+Example
+MTS ID: 1144
+MTS label: class_90
+XEM prediction: class_88
+MTS region used by XEM to predict: [107, 158]
+
+Example
+MTS ID: 1145
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [138, 189]
+
+Example
+MTS ID: 1146
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [204, 255]
+
+Example
+MTS ID: 1147
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [72, 123]
+
+Example
+MTS ID: 1148
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [196, 247]
+
+Example
+MTS ID: 1149
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [80, 131]
+
+Example
+MTS ID: 1150
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [171, 222]
+
+Example
+MTS ID: 1151
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [208, 259]
+
+Example
+MTS ID: 1152
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [201, 252]
+
+Example
+MTS ID: 1153
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [105, 156]
+
+Example
+MTS ID: 1154
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [100, 151]
+
+Example
+MTS ID: 1155
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [202, 253]
+
+Example
+MTS ID: 1156
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [144, 195]
+
+Example
+MTS ID: 1157
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [90, 141]
+
+Example
+MTS ID: 1158
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [178, 229]
+
+Example
+MTS ID: 1159
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [135, 186]
+
+Example
+MTS ID: 1160
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [148, 199]
+
+Example
+MTS ID: 1161
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [47, 98]
+
+Example
+MTS ID: 1162
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [107, 158]
+
+Example
+MTS ID: 1163
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [22, 73]
+
+Example
+MTS ID: 1164
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [29, 80]
+
+Example
+MTS ID: 1165
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [116, 167]
+
+Example
+MTS ID: 1166
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [193, 244]
+
+Example
+MTS ID: 1167
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [190, 241]
+
+Example
+MTS ID: 1168
+MTS label: class_42
+XEM prediction: class_65
+MTS region used by XEM to predict: [7, 58]
+
+Example
+MTS ID: 1169
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [128, 179]
+
+Example
+MTS ID: 1170
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [132, 183]
+
+Example
+MTS ID: 1171
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [88, 139]
+
+Example
+MTS ID: 1172
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [144, 195]
+
+Example
+MTS ID: 1173
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [153, 204]
+
+Example
+MTS ID: 1174
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [65, 116]
+
+Example
+MTS ID: 1175
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [38, 89]
+
+Example
+MTS ID: 1176
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [66, 117]
+
+Example
+MTS ID: 1177
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [137, 188]
+
+Example
+MTS ID: 1178
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [33, 84]
+
+Example
+MTS ID: 1179
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [152, 203]
+
+Example
+MTS ID: 1180
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [56, 107]
+
+Example
+MTS ID: 1181
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [162, 213]
+
+Example
+MTS ID: 1182
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 1183
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [88, 139]
+
+Example
+MTS ID: 1184
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [154, 205]
+
+Example
+MTS ID: 1185
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [119, 170]
+
+Example
+MTS ID: 1186
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [17, 68]
+
+Example
+MTS ID: 1187
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [69, 120]
+
+Example
+MTS ID: 1188
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [163, 214]
+
+Example
+MTS ID: 1189
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [97, 148]
+
+Example
+MTS ID: 1190
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [65, 116]
+
+Example
+MTS ID: 1191
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [174, 225]
+
+Example
+MTS ID: 1192
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [52, 103]
+
+Example
+MTS ID: 1193
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 1194
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [63, 114]
+
+Example
+MTS ID: 1195
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [61, 112]
+
+Example
+MTS ID: 1196
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [196, 247]
+
+Example
+MTS ID: 1197
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 1198
+MTS label: class_6
+XEM prediction: class_16
+MTS region used by XEM to predict: [156, 207]
+
+Example
+MTS ID: 1199
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [177, 228]
+
+Example
+MTS ID: 1200
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [177, 228]
+
+Example
+MTS ID: 1201
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [4, 55]
+
+Example
+MTS ID: 1202
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [33, 84]
+
+Example
+MTS ID: 1203
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [134, 185]
+
+Example
+MTS ID: 1204
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [15, 66]
+
+Example
+MTS ID: 1205
+MTS label: class_65
+XEM prediction: class_16
+MTS region used by XEM to predict: [138, 189]
+
+Example
+MTS ID: 1206
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [34, 85]
+
+Example
+MTS ID: 1207
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [202, 253]
+
+Example
+MTS ID: 1208
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [157, 208]
+
+Example
+MTS ID: 1209
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [22, 73]
+
+Example
+MTS ID: 1210
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [137, 188]
+
+Example
+MTS ID: 1211
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [182, 233]
+
+Example
+MTS ID: 1212
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [83, 134]
+
+Example
+MTS ID: 1213
+MTS label: class_95
+XEM prediction: class_15
+MTS region used by XEM to predict: [75, 126]
+
+Example
+MTS ID: 1214
+MTS label: class_95
+XEM prediction: class_65
+MTS region used by XEM to predict: [129, 180]
+
+Example
+MTS ID: 1215
+MTS label: class_64
+XEM prediction: class_64
+MTS region used by XEM to predict: [175, 226]
+
+Example
+MTS ID: 1216
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [197, 248]
+
+Example
+MTS ID: 1217
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [28, 79]
+
+Example
+MTS ID: 1218
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [180, 231]
+
+Example
+MTS ID: 1219
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [116, 167]
+
+Example
+MTS ID: 1220
+MTS label: class_6
+XEM prediction: class_42
+MTS region used by XEM to predict: [103, 154]
+
+Example
+MTS ID: 1221
+MTS label: class_53
+XEM prediction: class_53
+MTS region used by XEM to predict: [5, 56]
+
+Example
+MTS ID: 1222
+MTS label: class_95
+XEM prediction: class_95
+MTS region used by XEM to predict: [183, 234]
+
+Example
+MTS ID: 1223
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [80, 131]
+
+Example
+MTS ID: 1224
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [4, 55]
+
+Example
+MTS ID: 1225
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [139, 190]
+
+Example
+MTS ID: 1226
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [2, 53]
+
+Example
+MTS ID: 1227
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [162, 213]
+
+Example
+MTS ID: 1228
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [209, 260]
+
+Example
+MTS ID: 1229
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [92, 143]
+
+Example
+MTS ID: 1230
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [205, 256]
+
+Example
+MTS ID: 1231
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [40, 91]
+
+Example
+MTS ID: 1232
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [156, 207]
+
+Example
+MTS ID: 1233
+MTS label: class_42
+XEM prediction: class_15
+MTS region used by XEM to predict: [148, 199]
+
+Example
+MTS ID: 1234
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [100, 151]
+
+Example
+MTS ID: 1235
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [137, 188]
+
+Example
+MTS ID: 1236
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [70, 121]
+
+Example
+MTS ID: 1237
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [91, 142]
+
+Example
+MTS ID: 1238
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [171, 222]
+
+Example
+MTS ID: 1239
+MTS label: class_52
+XEM prediction: class_65
+MTS region used by XEM to predict: [210, 261]
+
+Example
+MTS ID: 1240
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [50, 101]
+
+Example
+MTS ID: 1241
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [197, 248]
+
+Example
+MTS ID: 1242
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [48, 99]
+
+Example
+MTS ID: 1243
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [9, 60]
+
+Example
+MTS ID: 1244
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [190, 241]
+
+Example
+MTS ID: 1245
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [158, 209]
+
+Example
+MTS ID: 1246
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [65, 116]
+
+Example
+MTS ID: 1247
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [104, 155]
+
+Example
+MTS ID: 1248
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [39, 90]
+
+Example
+MTS ID: 1249
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [133, 184]
+
+Example
+MTS ID: 1250
+MTS label: class_53
+XEM prediction: class_53
+MTS region used by XEM to predict: [108, 159]
+
+Example
+MTS ID: 1251
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [100, 151]
+
+Example
+MTS ID: 1252
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [112, 163]
+
+Example
+MTS ID: 1253
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [148, 199]
+
+Example
+MTS ID: 1254
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [72, 123]
+
+Example
+MTS ID: 1255
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [131, 182]
+
+Example
+MTS ID: 1256
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [120, 171]
+
+Example
+MTS ID: 1257
+MTS label: class_42
+XEM prediction: class_62
+MTS region used by XEM to predict: [132, 183]
+
+Example
+MTS ID: 1258
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [112, 163]
+
+Example
+MTS ID: 1259
+MTS label: class_42
+XEM prediction: class_15
+MTS region used by XEM to predict: [62, 113]
+
+Example
+MTS ID: 1260
+MTS label: class_67
+XEM prediction: class_67
+MTS region used by XEM to predict: [155, 206]
+
+Example
+MTS ID: 1261
+MTS label: class_65
+XEM prediction: class_42
+MTS region used by XEM to predict: [144, 195]
+
+Example
+MTS ID: 1262
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [26, 77]
+
+Example
+MTS ID: 1263
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [99, 150]
+
+Example
+MTS ID: 1264
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [149, 200]
+
+Example
+MTS ID: 1265
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [45, 96]
+
+Example
+MTS ID: 1266
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [74, 125]
+
+Example
+MTS ID: 1267
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [3, 54]
+
+Example
+MTS ID: 1268
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [136, 187]
+
+Example
+MTS ID: 1269
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [124, 175]
+
+Example
+MTS ID: 1270
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [33, 84]
+
+Example
+MTS ID: 1271
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [100, 151]
+
+Example
+MTS ID: 1272
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [79, 130]
+
+Example
+MTS ID: 1273
+MTS label: class_95
+XEM prediction: class_90
+MTS region used by XEM to predict: [80, 131]
+
+Example
+MTS ID: 1274
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [160, 211]
+
+Example
+MTS ID: 1275
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [156, 207]
+
+Example
+MTS ID: 1276
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [100, 151]
+
+Example
+MTS ID: 1277
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [132, 183]
+
+Example
+MTS ID: 1278
+MTS label: class_65
+XEM prediction: class_95
+MTS region used by XEM to predict: [57, 108]
+
+Example
+MTS ID: 1279
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [158, 209]
+
+Example
+MTS ID: 1280
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [159, 210]
+
+Example
+MTS ID: 1281
+MTS label: class_6
+XEM prediction: class_65
+MTS region used by XEM to predict: [180, 231]
+
+Example
+MTS ID: 1282
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [31, 82]
+
+Example
+MTS ID: 1283
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [123, 174]
+
+Example
+MTS ID: 1284
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [131, 182]
+
+Example
+MTS ID: 1285
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [19, 70]
+
+Example
+MTS ID: 1286
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [176, 227]
+
+Example
+MTS ID: 1287
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [61, 112]
+
+Example
+MTS ID: 1288
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [153, 204]
+
+Example
+MTS ID: 1289
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [3, 54]
+
+Example
+MTS ID: 1290
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [156, 207]
+
+Example
+MTS ID: 1291
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [86, 137]
+
+Example
+MTS ID: 1292
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [12, 63]
+
+Example
+MTS ID: 1293
+MTS label: class_42
+XEM prediction: class_65
+MTS region used by XEM to predict: [115, 166]
+
+Example
+MTS ID: 1294
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [100, 151]
+
+Example
+MTS ID: 1295
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [96, 147]
+
+Example
+MTS ID: 1296
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [84, 135]
+
+Example
+MTS ID: 1297
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [65, 116]
+
+Example
+MTS ID: 1298
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [4, 55]
+
+Example
+MTS ID: 1299
+MTS label: class_95
+XEM prediction: class_95
+MTS region used by XEM to predict: [183, 234]
+
+Example
+MTS ID: 1300
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [60, 111]
+
+Example
+MTS ID: 1301
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [36, 87]
+
+Example
+MTS ID: 1302
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [124, 175]
+
+Example
+MTS ID: 1303
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [22, 73]
+
+Example
+MTS ID: 1304
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [17, 68]
+
+Example
+MTS ID: 1305
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [144, 195]
+
+Example
+MTS ID: 1306
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [141, 192]
+
+Example
+MTS ID: 1307
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [165, 216]
+
+Example
+MTS ID: 1308
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [210, 261]
+
+Example
+MTS ID: 1309
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [82, 133]
+
+Example
+MTS ID: 1310
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [133, 184]
+
+Example
+MTS ID: 1311
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [202, 253]
+
+Example
+MTS ID: 1312
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [201, 252]
+
+Example
+MTS ID: 1313
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [8, 59]
+
+Example
+MTS ID: 1314
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [10, 61]
+
+Example
+MTS ID: 1315
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [84, 135]
+
+Example
+MTS ID: 1316
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [159, 210]
+
+Example
+MTS ID: 1317
+MTS label: class_6
+XEM prediction: class_42
+MTS region used by XEM to predict: [205, 256]
+
+Example
+MTS ID: 1318
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [193, 244]
+
+Example
+MTS ID: 1319
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [103, 154]
+
+Example
+MTS ID: 1320
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [165, 216]
+
+Example
+MTS ID: 1321
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [100, 151]
+
+Example
+MTS ID: 1322
+MTS label: class_6
+XEM prediction: class_90
+MTS region used by XEM to predict: [46, 97]
+
+Example
+MTS ID: 1323
+MTS label: class_67
+XEM prediction: class_62
+MTS region used by XEM to predict: [26, 77]
+
+Example
+MTS ID: 1324
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 1325
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [7, 58]
+
+Example
+MTS ID: 1326
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [69, 120]
+
+Example
+MTS ID: 1327
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [44, 95]
+
+Example
+MTS ID: 1328
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [51, 102]
+
+Example
+MTS ID: 1329
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [152, 203]
+
+Example
+MTS ID: 1330
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [134, 185]
+
+Example
+MTS ID: 1331
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [74, 125]
+
+Example
+MTS ID: 1332
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [137, 188]
+
+Example
+MTS ID: 1333
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [193, 244]
+
+Example
+MTS ID: 1334
+MTS label: class_42
+XEM prediction: class_15
+MTS region used by XEM to predict: [30, 81]
+
+Example
+MTS ID: 1335
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [205, 256]
+
+Example
+MTS ID: 1336
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [96, 147]
+
+Example
+MTS ID: 1337
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [51, 102]
+
+Example
+MTS ID: 1338
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [90, 141]
+
+Example
+MTS ID: 1339
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [100, 151]
+
+Example
+MTS ID: 1340
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [88, 139]
+
+Example
+MTS ID: 1341
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [149, 200]
+
+Example
+MTS ID: 1342
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [168, 219]
+
+Example
+MTS ID: 1343
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [178, 229]
+
+Example
+MTS ID: 1344
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [24, 75]
+
+Example
+MTS ID: 1345
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [148, 199]
+
+Example
+MTS ID: 1346
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [9, 60]
+
+Example
+MTS ID: 1347
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [137, 188]
+
+Example
+MTS ID: 1348
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [130, 181]
+
+Example
+MTS ID: 1349
+MTS label: class_64
+XEM prediction: class_64
+MTS region used by XEM to predict: [164, 215]
+
+Example
+MTS ID: 1350
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [99, 150]
+
+Example
+MTS ID: 1351
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [176, 227]
+
+Example
+MTS ID: 1352
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [125, 176]
+
+Example
+MTS ID: 1353
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [167, 218]
+
+Example
+MTS ID: 1354
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [66, 117]
+
+Example
+MTS ID: 1355
+MTS label: class_95
+XEM prediction: class_42
+MTS region used by XEM to predict: [199, 250]
+
+Example
+MTS ID: 1356
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [103, 154]
+
+Example
+MTS ID: 1357
+MTS label: class_65
+XEM prediction: class_88
+MTS region used by XEM to predict: [9, 60]
+
+Example
+MTS ID: 1358
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [131, 182]
+
+Example
+MTS ID: 1359
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [20, 71]
+
+Example
+MTS ID: 1360
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [30, 81]
+
+Example
+MTS ID: 1361
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [197, 248]
+
+Example
+MTS ID: 1362
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [176, 227]
+
+Example
+MTS ID: 1363
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [26, 77]
+
+Example
+MTS ID: 1364
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [83, 134]
+
+Example
+MTS ID: 1365
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [114, 165]
+
+Example
+MTS ID: 1366
+MTS label: class_95
+XEM prediction: class_42
+MTS region used by XEM to predict: [200, 251]
+
+Example
+MTS ID: 1367
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [142, 193]
+
+Example
+MTS ID: 1368
+MTS label: class_42
+XEM prediction: class_67
+MTS region used by XEM to predict: [111, 162]
+
+Example
+MTS ID: 1369
+MTS label: class_90
+XEM prediction: class_6
+MTS region used by XEM to predict: [182, 233]
+
+Example
+MTS ID: 1370
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [210, 261]
+
+Example
+MTS ID: 1371
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [6, 57]
+
+Example
+MTS ID: 1372
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [175, 226]
+
+Example
+MTS ID: 1373
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [105, 156]
+
+Example
+MTS ID: 1374
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [161, 212]
+
+Example
+MTS ID: 1375
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [36, 87]
+
+Example
+MTS ID: 1376
+MTS label: class_53
+XEM prediction: class_53
+MTS region used by XEM to predict: [162, 213]
+
+Example
+MTS ID: 1377
+MTS label: class_42
+XEM prediction: class_88
+MTS region used by XEM to predict: [171, 222]
+
+Example
+MTS ID: 1378
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [68, 119]
+
+Example
+MTS ID: 1379
+MTS label: class_65
+XEM prediction: class_16
+MTS region used by XEM to predict: [99, 150]
+
+Example
+MTS ID: 1380
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [97, 148]
+
+Example
+MTS ID: 1381
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [123, 174]
+
+Example
+MTS ID: 1382
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [155, 206]
+
+Example
+MTS ID: 1383
+MTS label: class_67
+XEM prediction: class_90
+MTS region used by XEM to predict: [32, 83]
+
+Example
+MTS ID: 1384
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [80, 131]
+
+Example
+MTS ID: 1385
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [14, 65]
+
+Example
+MTS ID: 1386
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [199, 250]
+
+Example
+MTS ID: 1387
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [36, 87]
+
+Example
+MTS ID: 1388
+MTS label: class_6
+XEM prediction: class_65
+MTS region used by XEM to predict: [98, 149]
+
+Example
+MTS ID: 1389
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [30, 81]
+
+Example
+MTS ID: 1390
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [189, 240]
+
+Example
+MTS ID: 1391
+MTS label: class_67
+XEM prediction: class_15
+MTS region used by XEM to predict: [118, 169]
+
+Example
+MTS ID: 1392
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [100, 151]
+
+Example
+MTS ID: 1393
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [128, 179]
+
+Example
+MTS ID: 1394
+MTS label: class_90
+XEM prediction: class_88
+MTS region used by XEM to predict: [142, 193]
+
+Example
+MTS ID: 1395
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [90, 141]
+
+Example
+MTS ID: 1396
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 1397
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [29, 80]
+
+Example
+MTS ID: 1398
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [39, 90]
+
+Example
+MTS ID: 1399
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [63, 114]
+
+Example
+MTS ID: 1400
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [78, 129]
+
+Example
+MTS ID: 1401
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [8, 59]
+
+Example
+MTS ID: 1402
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [90, 141]
+
+Example
+MTS ID: 1403
+MTS label: class_64
+XEM prediction: class_65
+MTS region used by XEM to predict: [208, 259]
+
+Example
+MTS ID: 1404
+MTS label: class_52
+XEM prediction: class_42
+MTS region used by XEM to predict: [31, 82]
+
+Example
+MTS ID: 1405
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [9, 60]
+
+Example
+MTS ID: 1406
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [139, 190]
+
+Example
+MTS ID: 1407
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [105, 156]
+
+Example
+MTS ID: 1408
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [151, 202]
+
+Example
+MTS ID: 1409
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [82, 133]
+
+Example
+MTS ID: 1410
+MTS label: class_88
+XEM prediction: class_16
+MTS region used by XEM to predict: [105, 156]
+
+Example
+MTS ID: 1411
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [151, 202]
+
+Example
+MTS ID: 1412
+MTS label: class_67
+XEM prediction: class_90
+MTS region used by XEM to predict: [94, 145]
+
+Example
+MTS ID: 1413
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [159, 210]
+
+Example
+MTS ID: 1414
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [104, 155]
+
+Example
+MTS ID: 1415
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [78, 129]
+
+Example
+MTS ID: 1416
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [110, 161]
+
+Example
+MTS ID: 1417
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [61, 112]
+
+Example
+MTS ID: 1418
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [142, 193]
+
+Example
+MTS ID: 1419
+MTS label: class_64
+XEM prediction: class_15
+MTS region used by XEM to predict: [132, 183]
+
+Example
+MTS ID: 1420
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [2, 53]
+
+Example
+MTS ID: 1421
+MTS label: class_6
+XEM prediction: class_92
+MTS region used by XEM to predict: [20, 71]
+
+Example
+MTS ID: 1422
+MTS label: class_67
+XEM prediction: class_62
+MTS region used by XEM to predict: [37, 88]
+
+Example
+MTS ID: 1423
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [79, 130]
+
+Example
+MTS ID: 1424
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [75, 126]
+
+Example
+MTS ID: 1425
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [68, 119]
+
+Example
+MTS ID: 1426
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [22, 73]
+
+Example
+MTS ID: 1427
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [106, 157]
+
+Example
+MTS ID: 1428
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [58, 109]
+
+Example
+MTS ID: 1429
+MTS label: class_64
+XEM prediction: class_65
+MTS region used by XEM to predict: [171, 222]
+
+Example
+MTS ID: 1430
+MTS label: class_95
+XEM prediction: class_90
+MTS region used by XEM to predict: [106, 157]
+
+Example
+MTS ID: 1431
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [119, 170]
+
+Example
+MTS ID: 1432
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [79, 130]
+
+Example
+MTS ID: 1433
+MTS label: class_42
+XEM prediction: class_62
+MTS region used by XEM to predict: [207, 258]
+
+Example
+MTS ID: 1434
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [146, 197]
+
+Example
+MTS ID: 1435
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [58, 109]
+
+Example
+MTS ID: 1436
+MTS label: class_15
+XEM prediction: class_88
+MTS region used by XEM to predict: [89, 140]
+
+Example
+MTS ID: 1437
+MTS label: class_62
+XEM prediction: class_42
+MTS region used by XEM to predict: [13, 64]
+
+Example
+MTS ID: 1438
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [21, 72]
+
+Example
+MTS ID: 1439
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [146, 197]
+
+Example
+MTS ID: 1440
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [169, 220]
+
+Example
+MTS ID: 1441
+MTS label: class_65
+XEM prediction: class_42
+MTS region used by XEM to predict: [172, 223]
+
+Example
+MTS ID: 1442
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [141, 192]
+
+Example
+MTS ID: 1443
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [80, 131]
+
+Example
+MTS ID: 1444
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [83, 134]
+
+Example
+MTS ID: 1445
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [13, 64]
+
+Example
+MTS ID: 1446
+MTS label: class_65
+XEM prediction: class_6
+MTS region used by XEM to predict: [138, 189]
+
+Example
+MTS ID: 1447
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [121, 172]
+
+Example
+MTS ID: 1448
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [37, 88]
+
+Example
+MTS ID: 1449
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [42, 93]
+
+Example
+MTS ID: 1450
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [131, 182]
+
+Example
+MTS ID: 1451
+MTS label: class_92
+XEM prediction: class_88
+MTS region used by XEM to predict: [13, 64]
+
+Example
+MTS ID: 1452
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [49, 100]
+
+Example
+MTS ID: 1453
+MTS label: class_64
+XEM prediction: class_65
+MTS region used by XEM to predict: [10, 61]
+
+Example
+MTS ID: 1454
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [70, 121]
+
+Example
+MTS ID: 1455
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [35, 86]
+
+Example
+MTS ID: 1456
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [18, 69]
+
+Example
+MTS ID: 1457
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [145, 196]
+
+Example
+MTS ID: 1458
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [140, 191]
+
+Example
+MTS ID: 1459
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [94, 145]
+
+Example
+MTS ID: 1460
+MTS label: class_64
+XEM prediction: class_16
+MTS region used by XEM to predict: [125, 176]
+
+Example
+MTS ID: 1461
+MTS label: class_6
+XEM prediction: class_88
+MTS region used by XEM to predict: [19, 70]
+
+Example
+MTS ID: 1462
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [164, 215]
+
+Example
+MTS ID: 1463
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [121, 172]
+
+Example
+MTS ID: 1464
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [107, 158]
+
+Example
+MTS ID: 1465
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [36, 87]
+
+Example
+MTS ID: 1466
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [152, 203]
+
+Example
+MTS ID: 1467
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [209, 260]
+
+Example
+MTS ID: 1468
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [73, 124]
+
+Example
+MTS ID: 1469
+MTS label: class_16
+XEM prediction: class_92
+MTS region used by XEM to predict: [5, 56]
+
+Example
+MTS ID: 1470
+MTS label: class_95
+XEM prediction: class_42
+MTS region used by XEM to predict: [53, 104]
+
+Example
+MTS ID: 1471
+MTS label: class_62
+XEM prediction: class_65
+MTS region used by XEM to predict: [76, 127]
+
+Example
+MTS ID: 1472
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [173, 224]
+
+Example
+MTS ID: 1473
+MTS label: class_42
+XEM prediction: class_62
+MTS region used by XEM to predict: [176, 227]
+
+Example
+MTS ID: 1474
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [7, 58]
+
+Example
+MTS ID: 1475
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [86, 137]
+
+Example
+MTS ID: 1476
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [90, 141]
+
+Example
+MTS ID: 1477
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [210, 261]
+
+Example
+MTS ID: 1478
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [9, 60]
+
+Example
+MTS ID: 1479
+MTS label: class_92
+XEM prediction: class_16
+MTS region used by XEM to predict: [69, 120]
+
+Example
+MTS ID: 1480
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [199, 250]
+
+Example
+MTS ID: 1481
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [93, 144]
+
+Example
+MTS ID: 1482
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [97, 148]
+
+Example
+MTS ID: 1483
+MTS label: class_42
+XEM prediction: class_15
+MTS region used by XEM to predict: [78, 129]
+
+Example
+MTS ID: 1484
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [188, 239]
+
+Example
+MTS ID: 1485
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [116, 167]
+
+Example
+MTS ID: 1486
+MTS label: class_42
+XEM prediction: class_90
+MTS region used by XEM to predict: [128, 179]
+
+Example
+MTS ID: 1487
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [198, 249]
+
+Example
+MTS ID: 1488
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [167, 218]
+
+Example
+MTS ID: 1489
+MTS label: class_62
+XEM prediction: class_67
+MTS region used by XEM to predict: [188, 239]
+
+Example
+MTS ID: 1490
+MTS label: class_62
+XEM prediction: class_62
+MTS region used by XEM to predict: [162, 213]
+
+Example
+MTS ID: 1491
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [106, 157]
+
+Example
+MTS ID: 1492
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 1493
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [85, 136]
+
+Example
+MTS ID: 1494
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [117, 168]
+
+Example
+MTS ID: 1495
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [194, 245]
+
+Example
+MTS ID: 1496
+MTS label: class_64
+XEM prediction: class_65
+MTS region used by XEM to predict: [48, 99]
+
+Example
+MTS ID: 1497
+MTS label: class_90
+XEM prediction: class_65
+MTS region used by XEM to predict: [103, 154]
+
+Example
+MTS ID: 1498
+MTS label: class_65
+XEM prediction: class_16
+MTS region used by XEM to predict: [102, 153]
+
+Example
+MTS ID: 1499
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [182, 233]
+
+Example
+MTS ID: 1500
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [6, 57]
+
+Example
+MTS ID: 1501
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 1502
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [81, 132]
+
+Example
+MTS ID: 1503
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [32, 83]
+
+Example
+MTS ID: 1504
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [64, 115]
+
+Example
+MTS ID: 1505
+MTS label: class_42
+XEM prediction: class_95
+MTS region used by XEM to predict: [64, 115]
+
+Example
+MTS ID: 1506
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [77, 128]
+
+Example
+MTS ID: 1507
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [11, 62]
+
+Example
+MTS ID: 1508
+MTS label: class_42
+XEM prediction: class_16
+MTS region used by XEM to predict: [65, 116]
+
+Example
+MTS ID: 1509
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 1510
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [81, 132]
+
+Example
+MTS ID: 1511
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [72, 123]
+
+Example
+MTS ID: 1512
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [84, 135]
+
+Example
+MTS ID: 1513
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [151, 202]
+
+Example
+MTS ID: 1514
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [1, 52]
+
+Example
+MTS ID: 1515
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [97, 148]
+
+Example
+MTS ID: 1516
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [62, 113]
+
+Example
+MTS ID: 1517
+MTS label: class_90
+XEM prediction: class_62
+MTS region used by XEM to predict: [43, 94]
+
+Example
+MTS ID: 1518
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [205, 256]
+
+Example
+MTS ID: 1519
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [59, 110]
+
+Example
+MTS ID: 1520
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [146, 197]
+
+Example
+MTS ID: 1521
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [123, 174]
+
+Example
+MTS ID: 1522
+MTS label: class_65
+XEM prediction: class_16
+MTS region used by XEM to predict: [194, 245]
+
+Example
+MTS ID: 1523
+MTS label: class_42
+XEM prediction: class_88
+MTS region used by XEM to predict: [204, 255]
+
+Example
+MTS ID: 1524
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [93, 144]
+
+Example
+MTS ID: 1525
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [103, 154]
+
+Example
+MTS ID: 1526
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [3, 54]
+
+Example
+MTS ID: 1527
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [125, 176]
+
+Example
+MTS ID: 1528
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [47, 98]
+
+Example
+MTS ID: 1529
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [140, 191]
+
+Example
+MTS ID: 1530
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [22, 73]
+
+Example
+MTS ID: 1531
+MTS label: class_95
+XEM prediction: class_42
+MTS region used by XEM to predict: [89, 140]
+
+Example
+MTS ID: 1532
+MTS label: class_62
+XEM prediction: class_15
+MTS region used by XEM to predict: [47, 98]
+
+Example
+MTS ID: 1533
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [206, 257]
+
+Example
+MTS ID: 1534
+MTS label: class_16
+XEM prediction: class_65
+MTS region used by XEM to predict: [14, 65]
+
+Example
+MTS ID: 1535
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [9, 60]
+
+Example
+MTS ID: 1536
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [154, 205]
+
+Example
+MTS ID: 1537
+MTS label: class_15
+XEM prediction: class_90
+MTS region used by XEM to predict: [3, 54]
+
+Example
+MTS ID: 1538
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [158, 209]
+
+Example
+MTS ID: 1539
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [25, 76]
+
+Example
+MTS ID: 1540
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [96, 147]
+
+Example
+MTS ID: 1541
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [20, 71]
+
+Example
+MTS ID: 1542
+MTS label: class_62
+XEM prediction: class_88
+MTS region used by XEM to predict: [108, 159]
+
+Example
+MTS ID: 1543
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [176, 227]
+
+Example
+MTS ID: 1544
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [189, 240]
+
+Example
+MTS ID: 1545
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [209, 260]
+
+Example
+MTS ID: 1546
+MTS label: class_92
+XEM prediction: class_92
+MTS region used by XEM to predict: [42, 93]
+
+Example
+MTS ID: 1547
+MTS label: class_67
+XEM prediction: class_42
+MTS region used by XEM to predict: [56, 107]
+
+Example
+MTS ID: 1548
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [144, 195]
+
+Example
+MTS ID: 1549
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [106, 157]
+
+Example
+MTS ID: 1550
+MTS label: class_52
+XEM prediction: class_90
+MTS region used by XEM to predict: [7, 58]
+
+Example
+MTS ID: 1551
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [186, 237]
+
+Example
+MTS ID: 1552
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [97, 148]
+
+Example
+MTS ID: 1553
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [122, 173]
+
+Example
+MTS ID: 1554
+MTS label: class_90
+XEM prediction: class_15
+MTS region used by XEM to predict: [13, 64]
+
+Example
+MTS ID: 1555
+MTS label: class_65
+XEM prediction: class_65
+MTS region used by XEM to predict: [154, 205]
+
+Example
+MTS ID: 1556
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [72, 123]
+
+Example
+MTS ID: 1557
+MTS label: class_16
+XEM prediction: class_16
+MTS region used by XEM to predict: [65, 116]
+
+Example
+MTS ID: 1558
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [61, 112]
+
+Example
+MTS ID: 1559
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [148, 199]
+
+Example
+MTS ID: 1560
+MTS label: class_42
+XEM prediction: class_42
+MTS region used by XEM to predict: [5, 56]
+
+Example
+MTS ID: 1561
+MTS label: class_42
+XEM prediction: class_62
+MTS region used by XEM to predict: [159, 210]
+
+Example
+MTS ID: 1562
+MTS label: class_62
+XEM prediction: class_90
+MTS region used by XEM to predict: [108, 159]
+
+Example
+MTS ID: 1563
+MTS label: class_88
+XEM prediction: class_88
+MTS region used by XEM to predict: [180, 231]
+
+Example
+MTS ID: 1564
+MTS label: class_42
+XEM prediction: class_65
+MTS region used by XEM to predict: [210, 261]
+
+Example
+MTS ID: 1565
+MTS label: class_53
+XEM prediction: class_53
+MTS region used by XEM to predict: [94, 145]
+
+Example
+MTS ID: 1566
+MTS label: class_62
+XEM prediction: class_6
+MTS region used by XEM to predict: [192, 243]
+
+Example
+MTS ID: 1567
+MTS label: class_6
+XEM prediction: class_6
+MTS region used by XEM to predict: [21, 72]
+
+Example
+MTS ID: 1568
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [4, 55]
+
+Example
+MTS ID: 1569
+MTS label: class_15
+XEM prediction: class_90
+MTS region used by XEM to predict: [50, 101]
+
+Example
+MTS ID: 1570
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [150, 201]

@@ -10,7 +10,7 @@ from .mass2 import *
 def load_arff_2_dataframe(fname):
     data = loadarff(fname)
     data = pd.DataFrame(data[0])
-    data = data.astype(np.float32)
+    data = data.astype(np.float64)
     return data
     
 def load_dataset(ds_folder, ds_name):
@@ -36,7 +36,17 @@ def load_uncertain_dataset(ds_folder, ds_name):
     
     return train_ds, train_noise_ds, test_ds, test_noise_ds
 
-def format_uncertain_dataset(data, data_err, shuffle=True):
+def format_uncertain_dataset(data, data_err, shuffle=True, label_on_err = True):
+    """format the dataset
+
+    Arguments
+    ---------
+    data (pd.DataFrame): the Dataframe to be formated
+    data_err (pd.DataFrame): the Dataframe containing the uncertainty 
+    shuffle (bool, default=False): whether the data should be shuffled or not  
+    label_on_err (bool, default = True): whether the `data_err` contains labels
+
+    """
     X = data.values.copy()
     X_err = data_err.values.copy()
 
@@ -45,7 +55,9 @@ def format_uncertain_dataset(data, data_err, shuffle=True):
         idx = np.random.permutation(idx)
 
     X, y = X[idx, :-1], X[idx, -1]
-    X_err = X_err[idx, :-1]
+
+    if label_on_err:
+        X_err = X_err[idx, :-1]
 
     return X, X_err, y.astype(int)
 
@@ -89,7 +101,7 @@ def plot_most_important_feature_on_ts(ts, label, features, scores, offset=0, lim
     
     for f in range(max_):
         kernel, score = sorted_features[f+offset]
-        kernel = np.array(kernel, dtype=np.float32)
+        kernel = np.array(kernel, dtype=np.float64)
         # kernel_normalized = znormalize_array(kernel)
         
         dist_profile = mass2(ts, kernel)

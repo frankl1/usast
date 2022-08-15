@@ -1,0 +1,52 @@
+Number of MTS in train set: 6278
+Number of MTS in test set: 1570
+Number of classes: 14
+MTS length: 261
+Window size: 52
+Number of features: 5
+
+Cross-validation - folds: 1, current: 0
+Training set size: 1318380
+Validation set size: 0
+Testing set size: 329700
+
+Accuracy train: 0.9917171073590315
+Accuracy validation: -
+Accuracy test: 0.70828025477707
+
+Precision train: 0.9917740326910539
+Precision validation: -
+Precision test: 0.6901743690938997
+
+Recall train: 0.9917171073590315
+Recall validation: -
+Recall test: 0.70828025477707
+
+F1 train: 0.99171102105543
+F1 validation: -
+F1 test: 0.6915555709575941
+
+Example
+MTS ID: 1
+MTS label: class_90
+XEM prediction: class_42
+MTS region used by XEM to predict: [105, 156]
+
+Example
+MTS ID: 2
+MTS label: class_42
+XEM prediction: class_16
+MTS region used by XEM to predict: [58, 109]
+
+Example
+MTS ID: 3
+MTS label: class_15
+XEM prediction: class_15
+MTS region used by XEM to predict: [141, 192]
+
+Example
+MTS ID: 4
+MTS label: class_90
+XEM prediction: class_90
+MTS region used by XEM to predict: [148, 199]
+Finished time: 42855.444432497025

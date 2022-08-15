@@ -1,0 +1,2 @@
+Dataset,Experiment,Window_Percentage,Trees,Depth,Validation_Split,Accuracy_Train,Accuracy_Validation,Accuracy_Test,Precision_Train,Precision_Validation,Precision_Test,Recall_Train,Recall_Validation,Recall_Test,F1_Train,F1_Validation,F1_Test
+plasticc,1,20,2,1,"[1, 0]",0.9917171073590315,-,0.70828025477707,0.9917740326910539,-,0.6901743690938997,0.9917171073590315,-,0.70828025477707,0.99171102105543,-,0.6915555709575941

@@ -1,0 +1,36 @@
+Number of MTS in train set: 6278
+Number of MTS in test set: 1570
+Number of classes: 14
+MTS length: 261
+Window size: 52
+Number of features: 5
+
+Cross-validation - folds: 1, current: 0
+Training set size: 1318380
+Validation set size: 0
+Testing set size: 329700
+
+Accuracy train: 0.9772220452373367
+Accuracy validation: -
+Accuracy test: 0.7254777070063694
+
+Precision train: 0.9777070097031619
+Precision validation: -
+Precision test: 0.7118109163060734
+
+Recall train: 0.9772220452373367
+Recall validation: -
+Recall test: 0.7254777070063694
+
+F1 train: 0.9771634517204221
+F1 validation: -
+F1 test: 0.7085038143083173
+/home/local.isima.fr/mfmbouopda/miniconda3/envs/xem/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1318: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Traceback (most recent call last):
+  File "./main.py", line 62, in <module>
+    get_mts_region(clf, encoder, X_test, y_test, results_test_mts, mts_id, configuration['window'])
+  File "/home/local.isima.fr/mfmbouopda/shapeletnet/XEM/utils/results_export.py", line 182, in get_mts_region
+    pred_num = int(np.array(res_mts.loc[res_mts.id==mts_id, "pred_num"])[0])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+srun: error: node36: task 0: Exited with exit code 1

@@ -1,0 +1,49 @@
+Number of MTS in train set: 6278
+Number of MTS in test set: 1570
+Number of classes: 14
+MTS length: 261
+Window size: 52
+Number of features: 5
+
+Cross-validation - folds: 1, current: 0
+Training set size: 1318380
+Validation set size: 0
+Testing set size: 329700
+Number of MTS in train set: 6278
+Number of MTS in test set: 1570
+Number of classes: 14
+MTS length: 261
+Window size: 52
+Number of features: 5
+
+Cross-validation - folds: 1, current: 0
+Training set size: 1318380
+Validation set size: 0
+Testing set size: 329700
+Number of MTS in train set: 6278
+Number of MTS in test set: 1570
+Number of classes: 14
+MTS length: 261
+Window size: 52
+Number of features: 5
+
+Cross-validation - folds: 1, current: 0
+Training set size: 1318380
+Validation set size: 0
+Testing set size: 329700
+
+Accuracy train: 0.9772220452373367
+Accuracy validation: -
+Accuracy test: 0.7254777070063694
+
+Precision train: 0.9777070097031619
+Precision validation: -
+Precision test: 0.7118109163060734
+
+Recall train: 0.9772220452373367
+Recall validation: -
+Recall test: 0.7254777070063694
+
+F1 train: 0.9771634517204221
+F1 validation: -
+F1 test: 0.7085038143083173

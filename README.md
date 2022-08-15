@@ -1,6 +1,18 @@
 # Explainable Classification of Uncertain Astronomical Time Series
 
-This repository contains the source code and results of our work on the effective classification of uncertain astronomical time series with explainability in mind. We propose the Uncertain Scalable and Accurate Subsequence Transform (uSAST), derived from both the Uncertain Shapelet Transform and the Scalable and Accurate Subsequence Transform to accurately classify the PLAsTiCC astronomical uncertain time series dataset without using techniques such as data augmentation and data oversampling despite the fact that dataset contains 14 unbalance classes. Furthermore, uSAST explainability allows astrophysicists to understand the method and to build a subsequence profile for each class. 
+This repository contains the source code and results of our work on the effective classification of uncertain astronomical time series with explainability in mind. We propose the Uncertain Scalable and Accurate Subsequence Transform (uSAST), derived from both the Uncertain Shapelet Transform and the Scalable and Accurate Subsequence Transform to accurately classify the PLAsTiCC astronomical uncertain time series dataset without using techniques such as data augmentation and data oversampling despite the fact that dataset contains 14 unbalance classes. Furthermore, uSAST explainability allows astrophysicists to understand the method and the predictions. 
+
+## Repository's content
+- `experiment_plasticc_u.py`: Script used to run SAST and uSAST experiment.
+- `result-plasticc-paper.ipynb`: Jupyter notebook used to summarised the results and to generate confusion matrices.
+- `explain-plasticc.ipynb`: Jupyter notebook used to perform explainability.
+- `plasticc_train_meta.csv`: Dataset's metadata.
+- `plasticc_train_test_split.csv`: Train and test split of the dataset.
+- `plasticc-arff2csv.py`: Script used to convert the dataset from arff to csv.
+- `sast/`: Folder containing SAST and uSAST source code.
+- `XEM/`: Folder containing source code for XEM experiment.
+- `results/`: Folder containing raw results of the experiment.
+- `images/`: Folder containing confusion matrices and most important features images
 
 ## Dependencies
 - matrixprofile==1.1.10
@@ -11,6 +23,10 @@ This repository contains the source code and results of our work on the effectiv
 - pandas=1.1.0
 - numba=0.50.1
 - numpy=1.19.2
+- pyarrow=9.0.0
+- pyyaml=6.0
+- lcensemble=0.2.7
+
 
 ## Usage
 ```
