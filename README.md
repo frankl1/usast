@@ -9,7 +9,7 @@ This repository contains the source code and results of our work on the effectiv
 - [plasticc_train_meta.csv](plasticc_train_meta.csv): Dataset's metadata.
 - [plasticc_train_test_split.csv](plasticc_train_test_split.csv): Train and test split of the dataset.
 - [plasticc-to-arff.ipynb](plasticc-to-arff.ipynb): Script used to convert the dataset from arff to csv.
-- `sast/`: Folder containing SAST and uSAST source code.
+- `sast/`: Folder containing SAST+ and uSAST source code.
 - `XEM/`: Folder containing source code for XEM experiment.
 - `results/`: Folder containing raw results of the experiment.
 - `images/`: Folder containing confusion matrices and most important features images
